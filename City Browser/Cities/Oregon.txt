@@ -1,0 +1,569 @@
+Adair Village city
+Adams city
+Adrian city
+Albany city
+Amity city
+Antelope city
+Arlington city
+Ashland city
+Astoria city
+Athena city
+Aumsville city
+Aurora city
+Baker City city
+Bandon city
+Banks city
+Barlow city
+Bay City city
+Beaverton city
+Bend city
+Boardman city
+Bonanza town
+Brookings city
+Brownsville city
+Burns city
+Butte Falls town
+Canby city
+Cannon Beach city
+Canyon City town
+Canyonville city
+Carlton city
+Cascade Locks city
+Cave Junction city
+Central Point city
+Chiloquin city
+Clatskanie city
+Coburg city
+Columbia City city
+Condon city
+Coos Bay city
+Coquille city
+Cornelius city
+Corvallis city
+Cottage Grove city
+Cove city
+Creswell city
+Culver city
+Dallas city
+Damascus city
+Dayton city
+Dayville town
+Depoe Bay city
+Detroit city
+Donald city
+Drain city
+Dufur city
+Dundee city
+Dunes City city
+Durham city
+Eagle Point city
+Echo city
+Elgin city
+Elkton city
+Enterprise city
+Estacada city
+Eugene city
+Fairview city
+Falls City city
+Florence city
+Forest Grove city
+Fossil city
+Garibaldi city
+Gaston city
+Gates city
+Gearhart city
+Gervais city
+Gladstone city
+Glendale city
+Gold Beach city
+Gold Hill city
+Granite city
+Grants Pass city
+Grass Valley city
+Gresham city
+Haines city
+Halfway city
+Halsey city
+Happy Valley city
+Harrisburg city
+Helix city
+Heppner city
+Hermiston city
+Hillsboro city
+Hines city
+Hood River city
+Hubbard city
+Huntington city
+Idanha city
+Imbler city
+Independence city
+Ione city
+Irrigon city
+Island City city
+Jacksonville city
+Jefferson city
+John Day city
+Johnson City city
+Jordan Valley city
+Joseph city
+Junction City city
+Keizer city
+King City city
+Klamath Falls city
+Lafayette city
+La Grande city
+Lake Oswego city
+Lakeside city
+Lakeview town
+La Pine city
+Lebanon city
+Lexington town
+Lincoln City city
+Lonerock city
+Long Creek city
+Lostine city
+Lowell city
+Lyons city
+McMinnville city
+Madras city
+Malin city
+Manzanita city
+Maupin city
+Maywood Park city
+Medford city
+Merrill city
+Metolius city
+Mill City city
+Millersburg city
+Milton-Freewater city
+Milwaukie city
+Mitchell city
+Molalla city
+Monmouth city
+Monroe city
+Monument city
+Moro city
+Mosier city
+Mount Angel city
+Mount Vernon city
+Myrtle Creek city
+Myrtle Point city
+Nehalem city
+Newberg city
+Newport city
+North Bend city
+North Plains city
+North Powder city
+Nyssa city
+Oakland city
+Oakridge city
+Ontario city
+Oregon City city
+Paisley city
+Pendleton city
+Philomath city
+Phoenix city
+Pilot Rock city
+Portland city
+Port Orford city
+Powers city
+Prairie City city
+Prescott city
+Prineville city
+Rainier city
+Redmond city
+Reedsport city
+Richland city
+Riddle city
+Rivergrove city
+Rockaway Beach city
+Rogue River city
+Roseburg city
+Rufus city
+St. Helens city
+St. Paul city
+Salem city
+Sandy city
+Scappoose city
+Scio city
+Scotts Mills city
+Seaside city
+Seneca city
+Shady Cove city
+Shaniko city
+Sheridan city
+Sherwood city
+Siletz city
+Silverton city
+Sisters city
+Sodaville city
+Spray town
+Springfield city
+Stanfield city
+Stayton city
+Sublimity city
+Summerville town
+Sumpter city
+Sutherlin city
+Sweet Home city
+Talent city
+Tangent city
+The Dalles city
+Tigard city
+Tillamook city
+Toledo city
+Troutdale city
+Tualatin city
+Turner city
+Ukiah city
+Umatilla city
+Union city
+Unity city
+Vale city
+Veneta city
+Vernonia city
+Waldport city
+Wallowa city
+Warrenton city
+Wasco city
+Waterloo town
+Westfir city
+West Linn city
+Weston city
+Wheeler city
+Willamina city
+Wilsonville city
+Winston city
+Woodburn city
+Wood Village city
+Yachats city
+Yamhill city
+Yoncalla city
+Baker County
+Baker City city
+Haines city
+Halfway city
+Huntington city
+Richland city
+Sumpter city
+Unity city
+Balance of Baker County
+Benton County
+Adair Village city
+Albany city (pt.)
+Corvallis city
+Monroe city
+Philomath city
+Balance of Benton County
+Clackamas County
+Barlow city
+Canby city
+Damascus city
+Estacada city
+Gladstone city
+Happy Valley city
+Johnson City city
+Lake Oswego city (pt.)
+Milwaukie city (pt.)
+Molalla city
+Oregon City city
+Portland city (pt.)
+Rivergrove city (pt.)
+Sandy city
+Tualatin city (pt.)
+West Linn city
+Wilsonville city (pt.)
+Balance of Clackamas County
+Clatsop County
+Astoria city
+Cannon Beach city
+Gearhart city
+Seaside city
+Warrenton city
+Balance of Clatsop County
+Columbia County
+Clatskanie city
+Columbia City city
+Prescott city
+Rainier city
+St. Helens city
+Scappoose city
+Vernonia city
+Balance of Columbia County
+Coos County
+Bandon city
+Coos Bay city
+Coquille city
+Lakeside city
+Myrtle Point city
+North Bend city
+Powers city
+Balance of Coos County
+Crook County
+Prineville city
+Balance of Crook County
+Curry County
+Brookings city
+Gold Beach city
+Port Orford city
+Balance of Curry County
+Deschutes County
+Bend city
+La Pine city
+Redmond city
+Sisters city
+Balance of Deschutes County
+Douglas County
+Canyonville city
+Drain city
+Elkton city
+Glendale city
+Myrtle Creek city
+Oakland city
+Reedsport city
+Riddle city
+Roseburg city
+Sutherlin city
+Winston city
+Yoncalla city
+Balance of Douglas County
+Gilliam County
+Arlington city
+Condon city
+Lonerock city
+Balance of Gilliam County
+Grant County
+Canyon City town
+Dayville town
+Granite city
+John Day city
+Long Creek city
+Monument city
+Mount Vernon city
+Prairie City city
+Seneca city
+Balance of Grant County
+Harney County
+Burns city
+Hines city
+Balance of Harney County
+Hood River County
+Cascade Locks city
+Hood River city
+Balance of Hood River County
+Jackson County
+Ashland city
+Butte Falls town
+Central Point city
+Eagle Point city
+Gold Hill city
+Jacksonville city
+Medford city
+Phoenix city
+Rogue River city
+Shady Cove city
+Talent city
+Balance of Jackson County
+Jefferson County
+Culver city
+Madras city
+Metolius city
+Balance of Jefferson County
+Josephine County
+Cave Junction city
+Grants Pass city
+Balance of Josephine County
+Klamath County
+Bonanza town
+Chiloquin city
+Klamath Falls city
+Malin city
+Merrill city
+Balance of Klamath County
+Lake County
+Lakeview town
+Paisley city
+Balance of Lake County
+Lane County
+Coburg city
+Cottage Grove city
+Creswell city
+Dunes City city
+Eugene city
+Florence city
+Junction City city
+Lowell city
+Oakridge city
+Springfield city
+Veneta city
+Westfir city
+Balance of Lane County
+Lincoln County
+Depoe Bay city
+Lincoln City city
+Newport city
+Siletz city
+Toledo city
+Waldport city
+Yachats city
+Balance of Lincoln County
+Linn County
+Albany city (pt.)
+Brownsville city
+Gates city (pt.)
+Halsey city
+Harrisburg city
+Idanha city (pt.)
+Lebanon city
+Lyons city
+Mill City city (pt.)
+Millersburg city
+Scio city
+Sodaville city
+Sweet Home city
+Tangent city
+Waterloo town
+Balance of Linn County
+Malheur County
+Adrian city
+Jordan Valley city
+Nyssa city
+Ontario city
+Vale city
+Balance of Malheur County
+Marion County
+Aumsville city
+Aurora city
+Detroit city
+Donald city
+Gates city (pt.)
+Gervais city
+Hubbard city
+Idanha city (pt.)
+Jefferson city
+Keizer city
+Mill City city (pt.)
+Mount Angel city
+St. Paul city
+Salem city (pt.)
+Scotts Mills city
+Silverton city
+Stayton city
+Sublimity city
+Turner city
+Woodburn city
+Balance of Marion County
+Morrow County
+Boardman city
+Heppner city
+Ione city
+Irrigon city
+Lexington town
+Balance of Morrow County
+Multnomah County
+Fairview city
+Gresham city
+Lake Oswego city (pt.)
+Maywood Park city
+Milwaukie city (pt.)
+Portland city (pt.)
+Troutdale city
+Wood Village city
+Balance of Multnomah County
+Polk County
+Dallas city
+Falls City city
+Independence city
+Monmouth city
+Salem city (pt.)
+Willamina city (pt.)
+Balance of Polk County
+Sherman County
+Grass Valley city
+Moro city
+Rufus city
+Wasco city
+Balance of Sherman County
+Tillamook County
+Bay City city
+Garibaldi city
+Manzanita city
+Nehalem city
+Rockaway Beach city
+Tillamook city
+Wheeler city
+Balance of Tillamook County
+Umatilla County
+Adams city
+Athena city
+Echo city
+Helix city
+Hermiston city
+Milton-Freewater city
+Pendleton city
+Pilot Rock city
+Stanfield city
+Ukiah city
+Umatilla city
+Weston city
+Balance of Umatilla County
+Union County
+Cove city
+Elgin city
+Imbler city
+Island City city
+La Grande city
+North Powder city
+Summerville town
+Union city
+Balance of Union County
+Wallowa County
+Enterprise city
+Joseph city
+Lostine city
+Wallowa city
+Balance of Wallowa County
+Wasco County
+Antelope city
+Dufur city
+Maupin city
+Mosier city
+Shaniko city
+The Dalles city
+Balance of Wasco County
+Washington County
+Banks city
+Beaverton city
+Cornelius city
+Durham city
+Forest Grove city
+Gaston city (pt.)
+Hillsboro city
+King City city
+Lake Oswego city (pt.)
+North Plains city
+Portland city (pt.)
+Rivergrove city (pt.)
+Sherwood city
+Tigard city
+Tualatin city (pt.)
+Wilsonville city (pt.)
+Balance of Washington County
+Wheeler County
+Fossil city
+Mitchell city
+Spray town
+Balance of Wheeler County
+Yamhill County
+Amity city
+Carlton city
+Dayton city
+Dundee city
+Gaston city (pt.)
+Lafayette city
+McMinnville city
+Newberg city
+Sheridan city
+Willamina city (pt.)
+Yamhill city
+Balance of Yamhill County

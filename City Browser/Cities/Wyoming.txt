@@ -1,0 +1,245 @@
+Afton town
+Albin town
+Alpine town
+Baggs town
+Bairoil town
+Bar Nunn town
+Basin town
+Bear River town
+Big Piney town
+Buffalo city
+Burlington town
+Burns town
+Byron town
+Casper city
+Cheyenne city
+Chugwater town
+Clearmont town
+Cody city
+Cokeville town
+Cowley town
+Dayton town
+Deaver town
+Diamondville town
+Dixon town
+Douglas city
+Dubois town
+East Thermopolis town
+Edgerton town
+Elk Mountain town
+Encampment town
+Evanston city
+Evansville town
+Fort Laramie town
+Frannie town
+Gillette city
+Glendo town
+Glenrock town
+Granger town
+Green River city
+Greybull town
+Guernsey town
+Hanna town
+Hartville town
+Hudson town
+Hulett town
+Jackson town
+Kaycee town
+Kemmerer city
+Kirby town
+La Barge town
+La Grange town
+Lander city
+Laramie city
+Lingle town
+Lost Springs town
+Lovell town
+Lusk town
+Lyman town
+Manderson town
+Manville town
+Marbleton town
+Medicine Bow town
+Meeteetse town
+Midwest town
+Mills town
+Moorcroft town
+Mountain View town
+Newcastle city
+Opal town
+Pavillion town
+Pine Bluffs town
+Pinedale town
+Pine Haven town
+Powell city
+Ranchester town
+Rawlins city
+Riverside town
+Riverton city
+Rock River town
+Rock Springs city
+Rolling Hills town
+Saratoga town
+Sheridan city
+Shoshoni town
+Sinclair town
+Star Valley Ranch town
+Sundance town
+Superior town
+Ten Sleep town
+Thayne town
+Thermopolis town
+Torrington city
+Upton town
+Van Tassell town
+Wamsutter town
+Wheatland town
+Worland city
+Wright town
+Yoder town
+Albany County
+Laramie city
+Rock River town
+Balance of Albany County
+Big Horn County
+Basin town
+Burlington town
+Byron town
+Cowley town
+Deaver town
+Frannie town (pt.)
+Greybull town
+Lovell town
+Manderson town
+Balance of Big Horn County
+Campbell County
+Gillette city
+Wright town
+Balance of Campbell County
+Carbon County
+Baggs town
+Dixon town
+Elk Mountain town
+Encampment town
+Hanna town
+Medicine Bow town
+Rawlins city
+Riverside town
+Saratoga town
+Sinclair town
+Balance of Carbon County
+Converse County
+Douglas city
+Glenrock town
+Lost Springs town
+Rolling Hills town
+Balance of Converse County
+Crook County
+Hulett town
+Moorcroft town
+Pine Haven town
+Sundance town
+Balance of Crook County
+Fremont County
+Dubois town
+Hudson town
+Lander city
+Pavillion town
+Riverton city
+Shoshoni town
+Balance of Fremont County
+Goshen County
+Fort Laramie town
+La Grange town
+Lingle town
+Torrington city
+Yoder town
+Balance of Goshen County
+Hot Springs County
+East Thermopolis town
+Kirby town
+Thermopolis town
+Balance of Hot Springs County
+Johnson County
+Buffalo city
+Kaycee town
+Balance of Johnson County
+Laramie County
+Albin town
+Burns town
+Cheyenne city
+Pine Bluffs town
+Balance of Laramie County
+Lincoln County
+Afton town
+Alpine town
+Cokeville town
+Diamondville town
+Kemmerer city
+La Barge town
+Opal town
+Star Valley Ranch town
+Thayne town
+Balance of Lincoln County
+Natrona County
+Bar Nunn town
+Casper city
+Edgerton town
+Evansville town
+Midwest town
+Mills town
+Balance of Natrona County
+Niobrara County
+Lusk town
+Manville town
+Van Tassell town
+Balance of Niobrara County
+Park County
+Cody city
+Frannie town (pt.)
+Meeteetse town
+Powell city
+Balance of Park County
+Platte County
+Chugwater town
+Glendo town
+Guernsey town
+Hartville town
+Wheatland town
+Balance of Platte County
+Sheridan County
+Clearmont town
+Dayton town
+Ranchester town
+Sheridan city
+Balance of Sheridan County
+Sublette County
+Big Piney town
+Marbleton town
+Pinedale town
+Balance of Sublette County
+Sweetwater County
+Bairoil town
+Granger town
+Green River city
+Rock Springs city
+Superior town
+Wamsutter town
+Balance of Sweetwater County
+Teton County
+Jackson town
+Balance of Teton County
+Uinta County
+Bear River town
+Evanston city
+Lyman town
+Mountain View town
+Balance of Uinta County
+Washakie County
+Ten Sleep town
+Worland city
+Balance of Washakie County
+Weston County
+Newcastle city
+Upton town
+Balance of Weston County

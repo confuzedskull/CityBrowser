@@ -1,0 +1,742 @@
+Abbeville city
+Abita Springs town
+Addis town
+Albany village
+Alexandria city
+Amite City town
+Anacoco village
+Angie village
+Arcadia town
+Arnaudville town
+Ashland village
+Athens village
+Atlanta village
+Baker city
+Baldwin town
+Ball town
+Basile town
+Baskin village
+Bastrop city
+Baton Rouge city
+Belcher village
+Benton town
+Bernice town
+Berwick town
+Bienville village
+Blanchard town
+Bogalusa city
+Bonita village
+Bossier City city
+Boyce town
+Breaux Bridge city
+Broussard city
+Brusly town
+Bryceland village
+Bunkie city
+Calvin village
+Campti town
+Cankton village
+Carencro city
+Castor village
+Central city
+Chataignier village
+Chatham town
+Cheneyville town
+Choudrant village
+Church Point town
+Clarence village
+Clarks village
+Clayton town
+Clinton town
+Colfax town
+Collinston village
+Columbia town
+Converse village
+Cottonport town
+Cotton Valley town
+Coushatta town
+Covington city
+Creola village
+Crowley city
+Cullen town
+Delcambre town
+Delhi town
+Delta village
+Denham Springs city
+DeQuincy city
+DeRidder city
+Dixie Inn village
+Dodson village
+Donaldsonville city
+Downsville village
+Doyline village
+Dry Prong village
+Dubach town
+Dubberly village
+Duson town
+East Hodge village
+Edgefield village
+Elizabeth town
+Elton town
+Epps village
+Erath town
+Eros town
+Estherwood village
+Eunice city
+Evergreen town
+Farmerville town
+Fenton village
+Ferriday town
+Fisher village
+Florien village
+Folsom village
+Fordoche town
+Forest village
+Forest Hill village
+Franklin city
+Franklinton town
+French Settlement village
+Georgetown village
+Gibsland town
+Gilbert village
+Gilliam village
+Glenmora town
+Golden Meadow town
+Goldonna village
+Gonzales city
+Grambling city
+Gramercy town
+Grand Cane village
+Grand Coteau town
+Grand Isle town
+Grayson village
+Greensburg town
+Greenwood town
+Gretna city
+Grosse Tete village
+Gueydan town
+Hall Summit village
+Hammond city
+Harahan city
+Harrisonburg village
+Haughton town
+Haynesville town
+Heflin village
+Henderson town
+Hessmer village
+Hodge village
+Homer town
+Hornbeck town
+Hosston village
+Houma city
+Ida village
+Independence town
+Iota town
+Iowa town
+Jackson town
+Jamestown village
+Jeanerette city
+Jean Lafitte town
+Jena town
+Jennings city
+Jonesboro town
+Jonesville town
+Junction City village
+Kaplan city
+Keachi town
+Kenner city
+Kentwood town
+Kilbourne village
+Killian town
+Kinder town
+Krotz Springs town
+Lafayette city
+Lake Arthur town
+Lake Charles city
+Lake Providence town
+Lecompte town
+Leesville city
+Leonville town
+Lillie village
+Lisbon village
+Livingston town
+Livonia town
+Lockport town
+Logansport town
+Longstreet village
+Loreauville village
+Lucky village
+Lutcher town
+McNary village
+Madisonville town
+Mamou town
+Mandeville city
+Mangham town
+Mansfield city
+Mansura town
+Many town
+Maringouin town
+Marion town
+Marksville city
+Martin village
+Maurice village
+Melville town
+Mermentau village
+Mer Rouge village
+Merryville town
+Minden city
+Monroe city
+Montgomery town
+Montpelier village
+Mooringsport town
+Moreauville village
+Morgan City city
+Morganza village
+Morse village
+Mound village
+Mount Lebanon town
+Napoleonville village
+Natchez village
+Natchitoches city
+Newellton town
+New Iberia city
+New Llano town
+New Orleans city
+New Roads city
+Noble village
+North Hodge village
+Norwood village
+Oakdale city
+Oak Grove town
+Oak Ridge village
+Oberlin town
+Oil City town
+Olla town
+Opelousas city
+Palmetto village
+Parks village
+Patterson city
+Pearl River town
+Pine Prairie village
+Pineville city
+Pioneer village
+Plain Dealing town
+Plaquemine city
+Plaucheville village
+Pleasant Hill village
+Pollock town
+Ponchatoula city
+Port Allen city
+Port Barre town
+Port Vincent village
+Powhatan village
+Provencal village
+Quitman village
+Rayne city
+Rayville town
+Reeves village
+Richmond village
+Richwood town
+Ridgecrest town
+Ringgold town
+Robeline village
+Rodessa village
+Rosedale village
+Roseland town
+Rosepine town
+Ruston city
+St. Francisville town
+St. Gabriel city
+St. Joseph town
+St. Martinville city
+Saline village
+Sarepta town
+Scott city
+Shongaloo village
+Shreveport city
+Sibley town
+Sicily Island village
+Sikes village
+Simmesport town
+Simpson village
+Simsboro village
+Slaughter town
+Slidell city
+Sorrento town
+South Mansfield village
+Spearsville village
+Springfield town
+Springhill city
+Stanley village
+Sterlington town
+Stonewall town
+Sulphur city
+Sun village
+Sunset town
+Tallulah city
+Tangipahoa village
+Thibodaux city
+Tickfaw village
+Tullos town
+Turkey Creek village
+Urania town
+Varnado village
+Vidalia town
+Vienna town
+Ville Platte city
+Vinton town
+Vivian town
+Walker town
+Washington town
+Waterproof town
+Welsh town
+Westlake city
+West Monroe city
+Westwego city
+White Castle town
+Wilson village
+Winnfield city
+Winnsboro city
+Wisner town
+Woodworth town
+Youngsville city
+Zachary city
+Zwolle town
+Acadia Parish
+Basile town (pt.)
+Church Point town
+Crowley city
+Duson town (pt.)
+Estherwood village
+Eunice city (pt.)
+Iota town
+Mermentau village
+Morse village
+Rayne city
+Balance of Acadia Parish
+Allen Parish
+Elizabeth town
+Kinder town
+Oakdale city
+Oberlin town
+Reeves village
+Balance of Allen Parish
+Ascension Parish
+Donaldsonville city
+Gonzales city
+Sorrento town
+Balance of Ascension Parish
+Assumption Parish
+Napoleonville village
+Balance of Assumption Parish
+Avoyelles Parish
+Bunkie city
+Cottonport town
+Evergreen town
+Hessmer village
+Mansura town
+Marksville city
+Moreauville village
+Plaucheville village
+Simmesport town
+Balance of Avoyelles Parish
+Beauregard Parish
+DeRidder city (pt.)
+Merryville town
+Balance of Beauregard Parish
+Bienville Parish
+Arcadia town
+Bienville village
+Bryceland village
+Castor village
+Gibsland town
+Jamestown village
+Lucky village
+Mount Lebanon town
+Ringgold town
+Saline village
+Balance of Bienville Parish
+Bossier Parish
+Benton town
+Bossier City city
+Haughton town
+Plain Dealing town
+Shreveport city (pt.)
+Balance of Bossier Parish
+Caddo Parish
+Belcher village
+Blanchard town
+Gilliam village
+Greenwood town
+Hosston village
+Ida village
+Mooringsport town
+Oil City town
+Rodessa village
+Shreveport city (pt.)
+Vivian town
+Balance of Caddo Parish
+Calcasieu Parish
+DeQuincy city
+Iowa town
+Lake Charles city
+Sulphur city
+Vinton town
+Westlake city
+Balance of Calcasieu Parish
+Caldwell Parish
+Clarks village
+Columbia town
+Grayson village
+Balance of Caldwell Parish
+Cameron Parish
+Catahoula Parish
+Harrisonburg village
+Jonesville town
+Sicily Island village
+Balance of Catahoula Parish
+Claiborne Parish
+Athens village
+Haynesville town
+Homer town
+Junction City village (pt.)
+Lisbon village
+Balance of Claiborne Parish
+Concordia Parish
+Clayton town
+Ferriday town
+Ridgecrest town
+Vidalia town
+Balance of Concordia Parish
+De Soto Parish
+Grand Cane village
+Keachi town
+Logansport town
+Longstreet village
+Mansfield city
+South Mansfield village
+Stanley village
+Stonewall town
+Balance of De Soto Parish
+East Baton Rouge Parish
+Baker city
+Baton Rouge city
+Central city
+Zachary city
+Balance of East Baton Rouge Parish
+East Carroll Parish
+Lake Providence town
+Balance of East Carroll Parish
+East Feliciana Parish
+Clinton town
+Jackson town
+Norwood village
+Slaughter town
+Wilson village
+Balance of East Feliciana Parish
+Evangeline Parish
+Basile town (pt.)
+Chataignier village
+Mamou town
+Pine Prairie village
+Turkey Creek village
+Ville Platte city
+Balance of Evangeline Parish
+Franklin Parish
+Baskin village
+Gilbert village
+Winnsboro city
+Wisner town
+Balance of Franklin Parish
+Grant Parish
+Colfax town
+Creola village
+Dry Prong village
+Georgetown village
+Montgomery town
+Pollock town
+Balance of Grant Parish
+Iberia Parish
+Delcambre town (pt.)
+Jeanerette city
+Loreauville village
+New Iberia city
+Balance of Iberia Parish
+Iberville Parish
+Grosse Tete village
+Maringouin town
+Plaquemine city
+Rosedale village
+St. Gabriel city
+White Castle town
+Balance of Iberville Parish
+Jackson Parish
+Chatham town
+East Hodge village
+Eros town
+Hodge village
+Jonesboro town
+North Hodge village
+Quitman village
+Balance of Jackson Parish
+Jefferson Parish
+Grand Isle town
+Gretna city
+Harahan city
+Jean Lafitte town
+Kenner city
+Westwego city
+Balance of Jefferson Parish
+Jefferson Davis Parish
+Elton town
+Fenton village
+Jennings city
+Lake Arthur town
+Welsh town
+Balance of Jefferson Davis Parish
+Lafayette Parish
+Broussard city (pt.)
+Carencro city
+Duson town (pt.)
+Lafayette city
+Scott city
+Youngsville city
+Balance of Lafayette Parish
+Lafourche Parish
+Golden Meadow town
+Lockport town
+Thibodaux city
+Balance of Lafourche Parish
+LaSalle Parish
+Jena town
+Olla town
+Tullos town (pt.)
+Urania town
+Balance of LaSalle Parish
+Lincoln Parish
+Choudrant village
+Downsville village (pt.)
+Dubach town
+Grambling city
+Ruston city
+Simsboro village
+Vienna town
+Balance of Lincoln Parish
+Livingston Parish
+Albany village
+Denham Springs city
+French Settlement village
+Killian town
+Livingston town
+Port Vincent village
+Springfield town
+Walker town
+Balance of Livingston Parish
+Madison Parish
+Delta village
+Mound village
+Richmond village
+Tallulah city
+Balance of Madison Parish
+Morehouse Parish
+Bastrop city
+Bonita village
+Collinston village
+Mer Rouge village
+Oak Ridge village
+Balance of Morehouse Parish
+Natchitoches Parish
+Ashland village
+Campti town
+Clarence village
+Goldonna village
+Natchez village
+Natchitoches city
+Powhatan village
+Provencal village
+Robeline village
+Balance of Natchitoches Parish
+Orleans Parish
+New Orleans city
+Ouachita Parish
+Monroe city
+Richwood town
+Sterlington town
+West Monroe city
+Balance of Ouachita Parish
+Plaquemines Parish
+Pointe Coupee Parish
+Fordoche town
+Livonia town
+Morganza village
+New Roads city
+Balance of Pointe Coupee Parish
+Rapides Parish
+Alexandria city
+Ball town
+Boyce town
+Cheneyville town
+Forest Hill village
+Glenmora town
+Lecompte town
+McNary village
+Pineville city
+Woodworth town
+Balance of Rapides Parish
+Red River Parish
+Coushatta town
+Edgefield village
+Hall Summit village
+Martin village
+Balance of Red River Parish
+Richland Parish
+Delhi town
+Mangham town
+Rayville town
+Balance of Richland Parish
+Sabine Parish
+Converse village
+Fisher village
+Florien village
+Many town
+Noble village
+Pleasant Hill village
+Zwolle town
+Balance of Sabine Parish
+St. Bernard Parish
+St. Charles Parish
+St. Helena Parish
+Greensburg town
+Montpelier village
+Balance of St. Helena Parish
+St. James Parish
+Gramercy town
+Lutcher town
+Balance of St. James Parish
+St. John the Baptist Parish
+St. Landry Parish
+Arnaudville town (pt.)
+Cankton village
+Eunice city (pt.)
+Grand Coteau town
+Krotz Springs town
+Leonville town
+Melville town
+Opelousas city
+Palmetto village
+Port Barre town
+Sunset town
+Washington town
+Balance of St. Landry Parish
+St. Martin Parish
+Arnaudville town (pt.)
+Breaux Bridge city
+Broussard city (pt.)
+Henderson town
+Morgan City city (pt.)
+Parks village
+St. Martinville city
+Balance of St. Martin Parish
+St. Mary Parish
+Baldwin town
+Berwick town
+Franklin city
+Morgan City city (pt.)
+Patterson city
+Balance of St. Mary Parish
+St. Tammany Parish
+Abita Springs town
+Covington city
+Folsom village
+Madisonville town
+Mandeville city
+Pearl River town
+Slidell city
+Sun village
+Balance of St. Tammany Parish
+Tangipahoa Parish
+Amite City town
+Hammond city
+Independence town
+Kentwood town
+Ponchatoula city
+Roseland town
+Tangipahoa village
+Tickfaw village
+Balance of Tangipahoa Parish
+Tensas Parish
+Newellton town
+St. Joseph town
+Waterproof town
+Balance of Tensas Parish
+Terrebonne Parish
+Houma city
+Balance of Terrebonne Parish
+Union Parish
+Bernice town
+Downsville village (pt.)
+Farmerville town
+Junction City village (pt.)
+Lillie village
+Marion town
+Spearsville village
+Balance of Union Parish
+Vermilion Parish
+Abbeville city
+Delcambre town (pt.)
+Erath town
+Gueydan town
+Kaplan city
+Maurice village
+Balance of Vermilion Parish
+Vernon Parish
+Anacoco village
+DeRidder city (pt.)
+Hornbeck town
+Leesville city
+New Llano town
+Rosepine town
+Simpson village
+Balance of Vernon Parish
+Washington Parish
+Angie village
+Bogalusa city
+Franklinton town
+Varnado village
+Balance of Washington Parish
+Webster Parish
+Cotton Valley town
+Cullen town
+Dixie Inn village
+Doyline village
+Dubberly village
+Heflin village
+Minden city
+Sarepta town
+Shongaloo village
+Sibley town
+Springhill city
+Balance of Webster Parish
+West Baton Rouge Parish
+Addis town
+Brusly town
+Port Allen city
+Balance of West Baton Rouge Parish
+West Carroll Parish
+Epps village
+Forest village
+Kilbourne village
+Oak Grove town
+Pioneer village
+Balance of West Carroll Parish
+West Feliciana Parish
+St. Francisville town
+Balance of West Feliciana Parish
+Winn Parish
+Atlanta village
+Calvin village
+Dodson village
+Sikes village
+Tullos town (pt.)
+Winnfield city
+Balance of Winn Parish

@@ -1,0 +1,679 @@
+Abingdon town
+Accomac town
+Alberta town
+Alexandria city
+Altavista town
+Amherst town
+Appalachia town
+Appomattox town
+Ashland town
+Bedford town
+Belle Haven town
+Berryville town
+Big Stone Gap town
+Blacksburg town
+Blackstone town
+Bloxom town
+Bluefield town
+Boones Mill town
+Bowling Green town
+Boyce town
+Boydton town
+Boykins town
+Branchville town
+Bridgewater town
+Bristol city
+Broadway town
+Brodnax town
+Brookneal town
+Buchanan town
+Buena Vista city
+Burkeville town
+Cape Charles town
+Capron town
+Cedar Bluff town
+Charlotte Court House town
+Charlottesville city
+Chase City town
+Chatham town
+Cheriton town
+Chesapeake city
+Chilhowie town
+Chincoteague town
+Christiansburg town
+Claremont town
+Clarksville town
+Cleveland town
+Clifton town
+Clifton Forge town
+Clinchco town
+Clinchport town
+Clintwood town
+Coeburn town
+Colonial Beach town
+Colonial Heights city
+Columbia town
+Courtland town
+Covington city
+Craigsville town
+Crewe town
+Culpeper town
+Damascus town
+Danville city
+Dayton town
+Dendron town
+Dillwyn town
+Drakes Branch town
+Dublin town
+Duffield town
+Dumfries town
+Dungannon town
+Eastville town
+Edinburg town
+Elkton town
+Emporia city
+Exmore town
+Fairfax city
+Falls Church city
+Farmville town
+Fincastle town
+Floyd town
+Franklin city
+Fredericksburg city
+Fries town
+Front Royal town
+Galax city
+Gate City town
+Glade Spring town
+Glasgow town
+Glen Lyn town
+Gordonsville town
+Goshen town
+Gretna town
+Grottoes town
+Grundy town
+Halifax town
+Hallwood town
+Hamilton town
+Hampton city
+Harrisonburg city
+Haymarket town
+Haysi town
+Herndon town
+Hillsboro town
+Hillsville town
+Honaker town
+Hopewell city
+Hurt town
+Independence town
+Iron Gate town
+Irvington town
+Ivor town
+Jarratt town
+Jonesville town
+Keller town
+Kenbridge town
+Keysville town
+Kilmarnock town
+La Crosse town
+Lawrenceville town
+Lebanon town
+Leesburg town
+Lexington city
+Louisa town
+Lovettsville town
+Luray town
+Lynchburg city
+McKenney town
+Madison town
+Manassas city
+Manassas Park city
+Marion town
+Martinsville city
+Melfa town
+Middleburg town
+Middletown town
+Mineral town
+Monterey town
+Montross town
+Mount Crawford town
+Mount Jackson town
+Narrows town
+Nassawadox town
+New Castle town
+New Market town
+Newport News city
+Newsoms town
+Nickelsville town
+Norfolk city
+Norton city
+Occoquan town
+Onancock town
+Onley town
+Orange town
+Painter town
+Pamplin City town
+Parksley town
+Pearisburg town
+Pembroke town
+Pennington Gap town
+Petersburg city
+Phenix town
+Pocahontas town
+Poquoson city
+Port Royal town
+Portsmouth city
+Pound town
+Pulaski town
+Purcellville town
+Quantico town
+Radford city
+Remington town
+Rich Creek town
+Richlands town
+Richmond city
+Ridgeway town
+Roanoke city
+Rocky Mount town
+Round Hill town
+Rural Retreat town
+St. Charles town
+St. Paul town
+Salem city
+Saltville town
+Saxis town
+Scottsburg town
+Scottsville town
+Shenandoah town
+Smithfield town
+South Boston town
+South Hill town
+Stanardsville town
+Stanley town
+Staunton city
+Stephens City town
+Stony Creek town
+Strasburg town
+Stuart town
+Suffolk city
+Surry town
+Tangier town
+Tappahannock town
+Tazewell town
+The Plains town
+Timberville town
+Toms Brook town
+Troutdale town
+Troutville town
+Urbanna town
+Victoria town
+Vienna town
+Vinton town
+Virgilina town
+Virginia Beach city
+Wachapreague town
+Wakefield town
+Warrenton town
+Warsaw town
+Washington town
+Waverly town
+Waynesboro city
+Weber City town
+West Point town
+White Stone town
+Williamsburg city
+Winchester city
+Windsor town
+Wise town
+Woodstock town
+Wytheville town
+Accomack County
+Accomac town
+Belle Haven town (pt.)
+Bloxom town
+Chincoteague town
+Hallwood town
+Keller town
+Melfa town
+Onancock town
+Onley town
+Painter town
+Parksley town
+Saxis town
+Tangier town
+Wachapreague town
+Balance of Accomack County
+Albemarle County
+Scottsville town (pt.)
+Balance of Albemarle County
+Alleghany County
+Clifton Forge town
+Iron Gate town
+Balance of Alleghany County
+Amelia County
+Amherst County
+Amherst town
+Balance of Amherst County
+Appomattox County
+Appomattox town
+Pamplin City town (pt.)
+Balance of Appomattox County
+Arlington County
+Augusta County
+Craigsville town
+Grottoes town (pt.)
+Balance of Augusta County
+Bath County
+Bedford County
+Bedford town
+Balance of Bedford County
+Bland County
+Botetourt County
+Buchanan town
+Fincastle town
+Troutville town
+Balance of Botetourt County
+Brunswick County
+Alberta town
+Brodnax town (pt.)
+Lawrenceville town
+Balance of Brunswick County
+Buchanan County
+Grundy town
+Balance of Buchanan County
+Buckingham County
+Dillwyn town
+Balance of Buckingham County
+Campbell County
+Altavista town
+Brookneal town
+Balance of Campbell County
+Caroline County
+Bowling Green town
+Port Royal town
+Balance of Caroline County
+Carroll County
+Hillsville town
+Balance of Carroll County
+Charles City County
+Charlotte County
+Charlotte Court House town
+Drakes Branch town
+Keysville town
+Phenix town
+Balance of Charlotte County
+Chesterfield County
+Clarke County
+Berryville town
+Boyce town
+Balance of Clarke County
+Craig County
+New Castle town
+Balance of Craig County
+Culpeper County
+Culpeper town
+Balance of Culpeper County
+Cumberland County
+Farmville town (pt.)
+Balance of Cumberland County
+Dickenson County
+Clinchco town
+Clintwood town
+Haysi town
+Balance of Dickenson County
+Dinwiddie County
+McKenney town
+Balance of Dinwiddie County
+Essex County
+Tappahannock town
+Balance of Essex County
+Fairfax County
+Clifton town
+Herndon town
+Occoquan town (pt.)
+Vienna town
+Balance of Fairfax County
+Fauquier County
+Remington town
+The Plains town
+Warrenton town
+Balance of Fauquier County
+Floyd County
+Floyd town
+Balance of Floyd County
+Fluvanna County
+Columbia town
+Scottsville town (pt.)
+Balance of Fluvanna County
+Franklin County
+Boones Mill town
+Rocky Mount town
+Balance of Franklin County
+Frederick County
+Middletown town
+Stephens City town
+Balance of Frederick County
+Giles County
+Glen Lyn town
+Narrows town
+Pearisburg town
+Pembroke town
+Rich Creek town
+Balance of Giles County
+Gloucester County
+Goochland County
+Grayson County
+Fries town
+Independence town
+Troutdale town
+Balance of Grayson County
+Greene County
+Stanardsville town
+Balance of Greene County
+Greensville County
+Jarratt town (pt.)
+Balance of Greensville County
+Halifax County
+Clarksville town (pt.)
+Halifax town
+Scottsburg town
+South Boston town
+Virgilina town
+Balance of Halifax County
+Hanover County
+Ashland town
+Balance of Hanover County
+Henrico County
+Henry County
+Ridgeway town
+Balance of Henry County
+Highland County
+Monterey town
+Balance of Highland County
+Isle of Wight County
+Smithfield town
+Windsor town
+Balance of Isle of Wight County
+James City County
+King and Queen County
+King George County
+King William County
+West Point town
+Balance of King William County
+Lancaster County
+Irvington town
+Kilmarnock town (pt.)
+White Stone town
+Balance of Lancaster County
+Lee County
+Jonesville town
+Pennington Gap town
+St. Charles town
+Balance of Lee County
+Loudoun County
+Hamilton town
+Hillsboro town
+Leesburg town
+Lovettsville town
+Middleburg town
+Purcellville town
+Round Hill town
+Balance of Loudoun County
+Louisa County
+Gordonsville town (pt.)
+Louisa town
+Mineral town
+Balance of Louisa County
+Lunenburg County
+Kenbridge town
+Victoria town
+Balance of Lunenburg County
+Madison County
+Madison town
+Balance of Madison County
+Mathews County
+Mecklenburg County
+Boydton town
+Brodnax town (pt.)
+Chase City town
+Clarksville town (pt.)
+La Crosse town
+South Hill town
+Balance of Mecklenburg County
+Middlesex County
+Urbanna town
+Balance of Middlesex County
+Montgomery County
+Blacksburg town
+Christiansburg town
+Balance of Montgomery County
+Nelson County
+New Kent County
+Northampton County
+Belle Haven town (pt.)
+Cape Charles town
+Cheriton town
+Eastville town
+Exmore town
+Nassawadox town
+Balance of Northampton County
+Northumberland County
+Kilmarnock town (pt.)
+Balance of Northumberland County
+Nottoway County
+Blackstone town
+Burkeville town
+Crewe town
+Balance of Nottoway County
+Orange County
+Gordonsville town (pt.)
+Orange town
+Balance of Orange County
+Page County
+Luray town
+Shenandoah town
+Stanley town
+Balance of Page County
+Patrick County
+Stuart town
+Balance of Patrick County
+Pittsylvania County
+Chatham town
+Gretna town
+Hurt town
+Balance of Pittsylvania County
+Powhatan County
+Prince Edward County
+Farmville town (pt.)
+Pamplin City town (pt.)
+Balance of Prince Edward County
+Prince George County
+Prince William County
+Dumfries town
+Haymarket town
+Occoquan town (pt.)
+Quantico town
+Balance of Prince William County
+Pulaski County
+Dublin town
+Pulaski town
+Balance of Pulaski County
+Rappahannock County
+Washington town
+Balance of Rappahannock County
+Richmond County
+Warsaw town
+Balance of Richmond County
+Roanoke County
+Vinton town
+Balance of Roanoke County
+Rockbridge County
+Glasgow town
+Goshen town
+Balance of Rockbridge County
+Rockingham County
+Bridgewater town
+Broadway town
+Dayton town
+Elkton town
+Grottoes town (pt.)
+Mount Crawford town
+Timberville town
+Balance of Rockingham County
+Russell County
+Cleveland town
+Honaker town
+Lebanon town
+St. Paul town (pt.)
+Balance of Russell County
+Scott County
+Clinchport town
+Duffield town
+Dungannon town
+Gate City town
+Nickelsville town
+Weber City town
+Balance of Scott County
+Shenandoah County
+Edinburg town
+Mount Jackson town
+New Market town
+Strasburg town
+Toms Brook town
+Woodstock town
+Balance of Shenandoah County
+Smyth County
+Chilhowie town
+Marion town
+Saltville town (pt.)
+Balance of Smyth County
+Southampton County
+Boykins town
+Branchville town
+Capron town
+Courtland town
+Ivor town
+Newsoms town
+Balance of Southampton County
+Spotsylvania County
+Stafford County
+Surry County
+Claremont town
+Dendron town
+Surry town
+Balance of Surry County
+Sussex County
+Jarratt town (pt.)
+Stony Creek town
+Wakefield town
+Waverly town
+Balance of Sussex County
+Tazewell County
+Bluefield town
+Cedar Bluff town
+Pocahontas town
+Richlands town
+Tazewell town
+Balance of Tazewell County
+Warren County
+Front Royal town
+Balance of Warren County
+Washington County
+Abingdon town
+Damascus town
+Glade Spring town
+Saltville town (pt.)
+Balance of Washington County
+Westmoreland County
+Colonial Beach town
+Montross town
+Balance of Westmoreland County
+Wise County
+Appalachia town
+Big Stone Gap town
+Coeburn town
+Pound town
+St. Paul town (pt.)
+Wise town
+Balance of Wise County
+Wythe County
+Rural Retreat town
+Wytheville town
+Balance of Wythe County
+York County
+Alexandria city
+Alexandria city
+Bristol city
+Bristol city
+Buena Vista city
+Buena Vista city
+Charlottesville city
+Charlottesville city
+Chesapeake city
+Chesapeake city
+Colonial Heights city
+Colonial Heights city
+Covington city
+Covington city
+Danville city
+Danville city
+Emporia city
+Emporia city
+Fairfax city
+Fairfax city
+Falls Church city
+Falls Church city
+Franklin city
+Franklin city
+Fredericksburg city
+Fredericksburg city
+Galax city
+Galax city
+Hampton city
+Hampton city
+Harrisonburg city
+Harrisonburg city
+Hopewell city
+Hopewell city
+Lexington city
+Lexington city
+Lynchburg city
+Lynchburg city
+Manassas city
+Manassas city
+Manassas Park city
+Manassas Park city
+Martinsville city
+Martinsville city
+Newport News city
+Newport News city
+Norfolk city
+Norfolk city
+Norton city
+Norton city
+Petersburg city
+Petersburg city
+Poquoson city
+Poquoson city
+Portsmouth city
+Portsmouth city
+Radford city
+Radford city
+Richmond city
+Richmond city
+Roanoke city
+Roanoke city
+Salem city
+Salem city
+Staunton city
+Staunton city
+Suffolk city
+Suffolk city
+Virginia Beach city
+Virginia Beach city
+Waynesboro city
+Waynesboro city
+Williamsburg city
+Williamsburg city
+Winchester city
+Winchester city

@@ -1,0 +1,123 @@
+Arden village
+Ardencroft village
+Ardentown village
+Bellefonte town
+Bethany Beach town
+Bethel town
+Blades town
+Bowers town
+Bridgeville town
+Camden town
+Cheswold town
+Clayton town
+Dagsboro town
+Delaware City city
+Delmar town
+Dewey Beach town
+Dover city
+Ellendale town
+Elsmere town
+Farmington town
+Felton town
+Fenwick Island town
+Frankford town
+Frederica town
+Georgetown town
+Greenwood town
+Harrington city
+Hartly town
+Henlopen Acres town
+Houston town
+Kenton town
+Laurel town
+Leipsic town
+Lewes city
+Little Creek town
+Magnolia town
+Middletown town
+Milford city
+Millsboro town
+Millville town
+Milton town
+Newark city
+New Castle city
+Newport town
+Ocean View town
+Odessa town
+Rehoboth Beach city
+Seaford city
+Selbyville town
+Slaughter Beach town
+Smyrna town
+South Bethany town
+Townsend town
+Viola town
+Wilmington city
+Woodside town
+Wyoming town
+Kent County
+Bowers town
+Camden town
+Cheswold town
+Clayton town (pt.)
+Dover city
+Farmington town
+Felton town
+Frederica town
+Harrington city
+Hartly town
+Houston town
+Kenton town
+Leipsic town
+Little Creek town
+Magnolia town
+Milford city (pt.)
+Smyrna town (pt.)
+Viola town
+Woodside town
+Wyoming town
+Balance of Kent County
+New Castle County
+Arden village
+Ardencroft village
+Ardentown village
+Bellefonte town
+Clayton town (pt.)
+Delaware City city
+Elsmere town
+Middletown town
+Newark city
+New Castle city
+Newport town
+Odessa town
+Smyrna town (pt.)
+Townsend town
+Wilmington city
+Balance of New Castle County
+Sussex County
+Bethany Beach town
+Bethel town
+Blades town
+Bridgeville town
+Dagsboro town
+Delmar town
+Dewey Beach town
+Ellendale town
+Fenwick Island town
+Frankford town
+Georgetown town
+Greenwood town
+Henlopen Acres town
+Laurel town
+Lewes city
+Milford city (pt.)
+Millsboro town
+Millville town
+Milton town
+Ocean View town
+Rehoboth Beach city
+Seaford city
+Selbyville town
+Slaughter Beach town
+South Bethany town
+Balance of Sussex County

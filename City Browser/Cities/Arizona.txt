@@ -1,0 +1,220 @@
+Apache Junction city
+Avondale city
+Benson city
+Bisbee city
+Buckeye town
+Bullhead City city
+Camp Verde town
+Carefree town
+Casa Grande city
+Cave Creek town
+Chandler city
+Chino Valley town
+Clarkdale town
+Clifton town
+Colorado City town
+Coolidge city
+Cottonwood city
+Dewey-Humboldt town
+Douglas city
+Duncan town
+Eagar town
+El Mirage city
+Eloy city
+Flagstaff city
+Florence town
+Fountain Hills town
+Fredonia town
+Gila Bend town
+Gilbert town
+Glendale city
+Globe city
+Goodyear city
+Guadalupe town
+Hayden town
+Holbrook city
+Huachuca City town
+Jerome town
+Kearny town
+Kingman city
+Lake Havasu City city
+Litchfield Park city
+Mammoth town
+Marana town
+Maricopa city
+Mesa city
+Miami town
+Nogales city
+Oro Valley town
+Page city
+Paradise Valley town
+Parker town
+Patagonia town
+Payson town
+Peoria city
+Phoenix city
+Pima town
+Pinetop-Lakeside town
+Prescott city
+Prescott Valley town
+Quartzsite town
+Queen Creek town
+Safford city
+Sahuarita town
+St. Johns city
+San Luis city
+Scottsdale city
+Sedona city
+Show Low city
+Sierra Vista city
+Snowflake town
+Somerton city
+South Tucson city
+Springerville town
+Star Valley town
+Superior town
+Surprise city
+Taylor town
+Tempe city
+Thatcher town
+Tolleson city
+Tombstone city
+Tucson city
+Tusayan town
+Wellton town
+Wickenburg town
+Willcox city
+Williams city
+Winkelman town
+Winslow city
+Youngtown town
+Yuma city
+Apache County
+Eagar town
+St. Johns city
+Springerville town
+Balance of Apache County
+Cochise County
+Benson city
+Bisbee city
+Douglas city
+Huachuca City town
+Sierra Vista city
+Tombstone city
+Willcox city
+Balance of Cochise County
+Coconino County
+Flagstaff city
+Fredonia town
+Page city
+Sedona city (pt.)
+Tusayan town
+Williams city
+Balance of Coconino County
+Gila County
+Globe city
+Hayden town (pt.)
+Miami town
+Payson town
+Star Valley town
+Winkelman town (pt.)
+Balance of Gila County
+Graham County
+Pima town
+Safford city
+Thatcher town
+Balance of Graham County
+Greenlee County
+Clifton town
+Duncan town
+Balance of Greenlee County
+La Paz County
+Parker town
+Quartzsite town
+Balance of La Paz County
+Maricopa County
+Apache Junction city (pt.)
+Avondale city
+Buckeye town
+Carefree town
+Cave Creek town
+Chandler city
+El Mirage city
+Fountain Hills town
+Gila Bend town
+Gilbert town
+Glendale city
+Goodyear city
+Guadalupe town
+Litchfield Park city
+Mesa city
+Paradise Valley town
+Peoria city (pt.)
+Phoenix city
+Queen Creek town (pt.)
+Scottsdale city
+Surprise city
+Tempe city
+Tolleson city
+Wickenburg town (pt.)
+Youngtown town
+Balance of Maricopa County
+Mohave County
+Bullhead City city
+Colorado City town
+Kingman city
+Lake Havasu City city
+Balance of Mohave County
+Navajo County
+Holbrook city
+Pinetop-Lakeside town
+Show Low city
+Snowflake town
+Taylor town
+Winslow city
+Balance of Navajo County
+Pima County
+Marana town (pt.)
+Oro Valley town
+Sahuarita town
+South Tucson city
+Tucson city
+Balance of Pima County
+Pinal County
+Apache Junction city (pt.)
+Casa Grande city
+Coolidge city
+Eloy city
+Florence town
+Hayden town (pt.)
+Kearny town
+Mammoth town
+Marana town (pt.)
+Maricopa city
+Queen Creek town (pt.)
+Superior town
+Winkelman town (pt.)
+Balance of Pinal County
+Santa Cruz County
+Nogales city
+Patagonia town
+Balance of Santa Cruz County
+Yavapai County
+Camp Verde town
+Chino Valley town
+Clarkdale town
+Cottonwood city
+Dewey-Humboldt town
+Jerome town
+Peoria city (pt.)
+Prescott city
+Prescott Valley town
+Sedona city (pt.)
+Wickenburg town (pt.)
+Balance of Yavapai County
+Yuma County
+San Luis city
+Somerton city
+Wellton town
+Yuma city
+Balance of Yuma County

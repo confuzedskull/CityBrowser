@@ -1,0 +1,439 @@
+Albany village
+Alburgh village
+Barre city
+Barton village
+Bellows Falls village
+Burlington city
+Cambridge village
+Derby Center village
+Derby Line village
+Enosburg Falls village
+Essex Junction village
+Hyde Park village
+Jacksonville village
+Jeffersonville village
+Johnson village
+Ludlow village
+Lyndonville village
+Manchester village
+Marshfield village
+Montpelier city
+Morrisville village
+Newbury village
+Newfane village
+Newport city
+North Bennington village
+Northfield village
+North Troy village
+Old Bennington village
+Orleans village
+Perkinsville village
+Poultney village
+Rutland city
+St. Albans city
+Saxtons River village
+South Burlington city
+Swanton village
+Vergennes city
+Waterbury village
+Wells River village
+West Burke village
+Westminster village
+Winooski city
+Woodstock village
+Addison County
+Vergennes city
+Balance of Addison County
+Addison town
+Bridport town
+Bristol town
+Cornwall town
+Ferrisburgh town
+Goshen town
+Granville town
+Hancock town
+Leicester town
+Lincoln town
+Middlebury town
+Monkton town
+New Haven town
+Orwell town
+Panton town
+Ripton town
+Salisbury town
+Shoreham town
+Starksboro town
+Vergennes city
+Vergennes city
+Waltham town
+Weybridge town
+Whiting town
+Bennington County
+Manchester village
+North Bennington village
+Old Bennington village
+Balance of Bennington County
+Arlington town
+Bennington town
+North Bennington village
+Old Bennington village
+Balance of Bennington town
+Dorset town
+Glastenbury town
+Landgrove town
+Manchester town
+Manchester village
+Balance of Manchester town
+Peru town
+Pownal town
+Readsboro town
+Rupert town
+Sandgate town
+Searsburg town
+Shaftsbury town
+Stamford town
+Sunderland town
+Winhall town
+Woodford town
+Caledonia County
+Lyndonville village
+West Burke village
+Balance of Caledonia County
+Barnet town
+Burke town
+West Burke village
+Balance of Burke town
+Danville town
+Groton town
+Hardwick town
+Kirby town
+Lyndon town
+Lyndonville village
+Balance of Lyndon town
+Newark town
+Peacham town
+Ryegate town
+St. Johnsbury town
+Sheffield town
+Stannard town
+Sutton town
+Walden town
+Waterford town
+Wheelock town
+Chittenden County
+Burlington city
+Essex Junction village
+South Burlington city
+Winooski city
+Balance of Chittenden County
+Bolton town
+Buels gore
+Burlington city
+Burlington city
+Charlotte town
+Colchester town
+Essex town
+Essex Junction village
+Balance of Essex town
+Hinesburg town
+Huntington town
+Jericho town
+Milton town
+Richmond town
+St. George town
+Shelburne town
+South Burlington city
+South Burlington city
+Underhill town
+Westford town
+Williston town
+Winooski city
+Winooski city
+Essex County
+Averill town
+Avery's gore
+Bloomfield town
+Brighton town
+Brunswick town
+Canaan town
+Concord town
+East Haven town
+Ferdinand town
+Granby town
+Guildhall town
+Lemington town
+Lewis town
+Lunenburg town
+Maidstone town
+Norton town
+Victory town
+Warner's grant
+Warren's gore
+Franklin County
+Enosburg Falls village
+St. Albans city
+Swanton village
+Balance of Franklin County
+Bakersfield town
+Berkshire town
+Enosburgh town
+Enosburg Falls village
+Balance of Enosburgh town
+Fairfax town
+Fairfield town
+Fletcher town
+Franklin town
+Georgia town
+Highgate town
+Montgomery town
+Richford town
+St. Albans city
+St. Albans city
+St. Albans town
+Sheldon town
+Swanton town
+Swanton village
+Balance of Swanton town
+Grand Isle County
+Alburgh village
+Balance of Grand Isle County
+Alburgh town
+Alburgh village
+Balance of Alburgh town
+Grand Isle town
+Isle La Motte town
+North Hero town
+South Hero town
+Lamoille County
+Cambridge village
+Hyde Park village
+Jeffersonville village
+Johnson village
+Morrisville village
+Balance of Lamoille County
+Belvidere town
+Cambridge town
+Cambridge village
+Jeffersonville village
+Balance of Cambridge town
+Eden town
+Elmore town
+Hyde Park town
+Hyde Park village
+Balance of Hyde Park town
+Johnson town
+Johnson village
+Balance of Johnson town
+Morristown town
+Morrisville village
+Balance of Morristown town
+Stowe town
+Waterville town
+Wolcott town
+Orange County
+Newbury village
+Wells River village
+Balance of Orange County
+Bradford town
+Braintree town
+Brookfield town
+Chelsea town
+Corinth town
+Fairlee town
+Newbury town
+Newbury village
+Wells River village
+Balance of Newbury town
+Orange town
+Randolph town
+Strafford town
+Thetford town
+Topsham town
+Tunbridge town
+Vershire town
+Washington town
+West Fairlee town
+Williamstown town
+Orleans County
+Albany village
+Barton village
+Derby Center village
+Derby Line village
+Newport city
+North Troy village
+Orleans village
+Balance of Orleans County
+Albany town
+Albany village
+Balance of Albany town
+Barton town
+Barton village
+Orleans village
+Balance of Barton town
+Brownington town
+Charleston town
+Coventry town
+Craftsbury town
+Derby town
+Derby Center village
+Derby Line village
+Balance of Derby town
+Glover town
+Greensboro town
+Holland town
+Irasburg town
+Jay town
+Lowell town
+Morgan town
+Newport city
+Newport city
+Newport town
+Troy town
+North Troy village
+Balance of Troy town
+Westfield town
+Westmore town
+Rutland County
+Poultney village
+Rutland city
+Balance of Rutland County
+Benson town
+Brandon town
+Castleton town
+Chittenden town
+Clarendon town
+Danby town
+Fair Haven town
+Hubbardton town
+Ira town
+Killington town
+Mendon town
+Middletown Springs town
+Mount Holly town
+Mount Tabor town
+Pawlet town
+Pittsfield town
+Pittsford town
+Poultney town
+Poultney village
+Balance of Poultney town
+Proctor town
+Rutland city
+Rutland city
+Rutland town
+Shrewsbury town
+Sudbury town
+Tinmouth town
+Wallingford town
+Wells town
+West Haven town
+West Rutland town
+Washington County
+Barre city
+Marshfield village
+Montpelier city
+Northfield village
+Waterbury village
+Balance of Washington County
+Barre city
+Barre city
+Barre town
+Berlin town
+Cabot town
+Calais town
+Duxbury town
+East Montpelier town
+Fayston town
+Marshfield town
+Marshfield village
+Balance of Marshfield town
+Middlesex town
+Montpelier city
+Montpelier city
+Moretown town
+Northfield town
+Northfield village
+Balance of Northfield town
+Plainfield town
+Roxbury town
+Waitsfield town
+Warren town
+Waterbury town
+Waterbury village
+Balance of Waterbury town
+Woodbury town
+Worcester town
+Windham County
+Bellows Falls village
+Jacksonville village
+Newfane village
+Saxtons River village
+Westminster village
+Balance of Windham County
+Athens town
+Brattleboro town
+Brookline town
+Dover town
+Dummerston town
+Grafton town
+Guilford town
+Halifax town
+Jamaica town
+Londonderry town
+Marlboro town
+Newfane town
+Newfane village
+Balance of Newfane town
+Putney town
+Rockingham town
+Bellows Falls village
+Saxtons River village
+Balance of Rockingham town
+Somerset town
+Stratton town
+Townshend town
+Vernon town
+Wardsboro town
+Westminster town
+Westminster village
+Balance of Westminster town
+Whitingham town
+Jacksonville village
+Balance of Whitingham town
+Wilmington town
+Windham town
+Windsor County
+Ludlow village
+Perkinsville village
+Woodstock village
+Balance of Windsor County
+Andover town
+Baltimore town
+Barnard town
+Bethel town
+Bridgewater town
+Cavendish town
+Chester town
+Hartford town
+Hartland town
+Ludlow town
+Ludlow village
+Balance of Ludlow town
+Norwich town
+Plymouth town
+Pomfret town
+Reading town
+Rochester town
+Royalton town
+Sharon town
+Springfield town
+Stockbridge town
+Weathersfield town
+Perkinsville village
+Balance of Weathersfield town
+Weston town
+West Windsor town
+Windsor town
+Woodstock town
+Woodstock village
+Balance of Woodstock town

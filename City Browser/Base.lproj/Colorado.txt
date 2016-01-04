@@ -1,0 +1,690 @@
+Aguilar town
+Akron town
+Alamosa city
+Alma town
+Antonito town
+Arriba town
+Arvada city
+Aspen city
+Ault town
+Aurora city
+Avon town
+Basalt town
+Bayfield town
+Bennett town
+Berthoud town
+Bethune town
+Black Hawk city
+Blanca town
+Blue River town
+Bonanza town
+Boone town
+Boulder city
+Bow Mar town
+Branson town
+Breckenridge town
+Brighton city
+Brookside town
+Broomfield city
+Brush city
+Buena Vista town
+Burlington city
+Calhan town
+Campo town
+Cañon City city
+Carbondale town
+Castle Pines city
+Castle Rock town
+Cedaredge town
+Centennial city
+Center town
+Central City city
+Cheraw town
+Cherry Hills Village city
+Cheyenne Wells town
+City of Creede town
+Coal Creek town
+Cokedale town
+Collbran town
+Colorado Springs city
+Columbine Valley town
+Commerce City city
+Cortez city
+Craig city
+Crawford town
+Crested Butte town
+Crestone town
+Cripple Creek city
+Crook town
+Crowley town
+Dacono city
+De Beque town
+Deer Trail town
+Del Norte town
+Delta city
+Denver city
+Dillon town
+Dinosaur town
+Dolores town
+Dove Creek town
+Durango city
+Eads town
+Eagle town
+Eaton town
+Eckley town
+Edgewater city
+Elizabeth town
+Empire town
+Englewood city
+Erie town
+Estes Park town
+Evans city
+Fairplay town
+Federal Heights city
+Firestone town
+Flagler town
+Fleming town
+Florence city
+Fort Collins city
+Fort Lupton city
+Fort Morgan city
+Fountain city
+Fowler town
+Foxfield town
+Fraser town
+Frederick town
+Frisco town
+Fruita city
+Garden City town
+Genoa town
+Georgetown town
+Gilcrest town
+Glendale city
+Glenwood Springs city
+Golden city
+Granada town
+Granby town
+Grand Junction city
+Grand Lake town
+Greeley city
+Green Mountain Falls town
+Greenwood Village city
+Grover town
+Gunnison city
+Gypsum town
+Hartman town
+Haswell town
+Haxtun town
+Hayden town
+Hillrose town
+Holly town
+Holyoke city
+Hooper town
+Hotchkiss town
+Hot Sulphur Springs town
+Hudson town
+Hugo town
+Idaho Springs city
+Ignacio town
+Iliff town
+Jamestown town
+Johnstown town
+Julesburg town
+Keenesburg town
+Kersey town
+Kim town
+Kiowa town
+Kit Carson town
+Kremmling town
+Lafayette city
+La Jara town
+La Junta city
+Lake City town
+Lakeside town
+Lakewood city
+Lamar city
+Larkspur town
+La Salle town
+Las Animas city
+La Veta town
+Leadville city
+Limon town
+Littleton city
+Lochbuie town
+Log Lane Village town
+Lone Tree city
+Longmont city
+Louisville city
+Loveland city
+Lyons town
+Manassa town
+Mancos town
+Manitou Springs city
+Manzanola town
+Marble town
+Mead town
+Meeker town
+Merino town
+Milliken town
+Minturn town
+Moffat town
+Monte Vista city
+Montezuma town
+Montrose city
+Monument town
+Morrison town
+Mountain View town
+Mountain Village town
+Mount Crested Butte town
+Naturita town
+Nederland town
+New Castle town
+Northglenn city
+Norwood town
+Nucla town
+Nunn town
+Oak Creek town
+Olathe town
+Olney Springs town
+Ophir town
+Orchard City town
+Ordway town
+Otis town
+Ouray city
+Ovid town
+Pagosa Springs town
+Palisade town
+Palmer Lake town
+Paoli town
+Paonia town
+Parachute town
+Parker town
+Peetz town
+Pierce town
+Pitkin town
+Platteville town
+Poncha Springs town
+Pritchett town
+Pueblo city
+Ramah town
+Rangely town
+Raymer (New Raymer) town
+Red Cliff town
+Rico town
+Ridgway town
+Rifle city
+Rockvale town
+Rocky Ford city
+Romeo town
+Rye town
+Saguache town
+Salida city
+Sanford town
+San Luis town
+Sawpit town
+Sedgwick town
+Seibert town
+Severance town
+Sheridan city
+Sheridan Lake town
+Silt town
+Silver Cliff town
+Silver Plume town
+Silverthorne town
+Silverton town
+Simla town
+Snowmass Village town
+South Fork town
+Springfield town
+Starkville town
+Steamboat Springs city
+Sterling city
+Stratton town
+Sugar City town
+Superior town
+Swink town
+Telluride town
+Thornton city
+Timnath town
+Trinidad city
+Two Buttes town
+Vail town
+Victor city
+Vilas town
+Vona town
+Walden town
+Walsenburg city
+Walsh town
+Ward town
+Wellington town
+Westcliffe town
+Westminster city
+Wheat Ridge city
+Wiggins town
+Wiley town
+Williamsburg town
+Windsor town
+Winter Park town
+Woodland Park city
+Wray city
+Yampa town
+Yuma city
+Adams County
+Arvada city (pt.)
+Aurora city (pt.)
+Bennett town (pt.)
+Brighton city (pt.)
+Commerce City city
+Federal Heights city
+Lochbuie town (pt.)
+Northglenn city (pt.)
+Thornton city (pt.)
+Westminster city (pt.)
+Balance of Adams County
+Alamosa County
+Alamosa city
+Hooper town
+Balance of Alamosa County
+Arapahoe County
+Aurora city (pt.)
+Bennett town (pt.)
+Bow Mar town (pt.)
+Centennial city
+Cherry Hills Village city
+Columbine Valley town
+Deer Trail town
+Englewood city
+Foxfield town
+Glendale city
+Greenwood Village city
+Littleton city (pt.)
+Sheridan city
+Balance of Arapahoe County
+Archuleta County
+Pagosa Springs town
+Balance of Archuleta County
+Baca County
+Campo town
+Pritchett town
+Springfield town
+Two Buttes town
+Vilas town
+Walsh town
+Balance of Baca County
+Bent County
+Las Animas city
+Balance of Bent County
+Boulder County
+Boulder city
+Erie town (pt.)
+Jamestown town
+Lafayette city
+Longmont city (pt.)
+Louisville city
+Lyons town
+Nederland town
+Superior town (pt.)
+Ward town
+Balance of Boulder County
+Broomfield County
+Broomfield city
+Chaffee County
+Buena Vista town
+Poncha Springs town
+Salida city
+Balance of Chaffee County
+Cheyenne County
+Cheyenne Wells town
+Kit Carson town
+Balance of Cheyenne County
+Clear Creek County
+Central City city (pt.)
+Empire town
+Georgetown town
+Idaho Springs city
+Silver Plume town
+Balance of Clear Creek County
+Conejos County
+Antonito town
+La Jara town
+Manassa town
+Romeo town
+Sanford town
+Balance of Conejos County
+Costilla County
+Blanca town
+San Luis town
+Balance of Costilla County
+Crowley County
+Crowley town
+Olney Springs town
+Ordway town
+Sugar City town
+Balance of Crowley County
+Custer County
+Silver Cliff town
+Westcliffe town
+Balance of Custer County
+Delta County
+Cedaredge town
+Crawford town
+Delta city
+Hotchkiss town
+Orchard City town
+Paonia town
+Balance of Delta County
+Denver County
+Denver city
+Dolores County
+Dove Creek town
+Rico town
+Balance of Dolores County
+Douglas County
+Aurora city (pt.)
+Castle Pines city
+Castle Rock town
+Larkspur town
+Littleton city (pt.)
+Lone Tree city
+Parker town
+Balance of Douglas County
+Eagle County
+Avon town
+Basalt town (pt.)
+Eagle town
+Gypsum town
+Minturn town
+Red Cliff town
+Vail town
+Balance of Eagle County
+Elbert County
+Elizabeth town
+Kiowa town
+Simla town
+Balance of Elbert County
+El Paso County
+Calhan town
+Colorado Springs city
+Fountain city
+Green Mountain Falls town (pt.)
+Manitou Springs city
+Monument town
+Palmer Lake town
+Ramah town
+Balance of El Paso County
+Fremont County
+Brookside town
+Cañon City city
+Coal Creek town
+Florence city
+Rockvale town
+Williamsburg town
+Balance of Fremont County
+Garfield County
+Carbondale town
+Glenwood Springs city
+New Castle town
+Parachute town
+Rifle city
+Silt town
+Balance of Garfield County
+Gilpin County
+Black Hawk city
+Central City city (pt.)
+Balance of Gilpin County
+Grand County
+Fraser town
+Granby town
+Grand Lake town
+Hot Sulphur Springs town
+Kremmling town
+Winter Park town
+Balance of Grand County
+Gunnison County
+Crested Butte town
+Gunnison city
+Marble town
+Mount Crested Butte town
+Pitkin town
+Balance of Gunnison County
+Hinsdale County
+Lake City town
+Balance of Hinsdale County
+Huerfano County
+La Veta town
+Walsenburg city
+Balance of Huerfano County
+Jackson County
+Walden town
+Balance of Jackson County
+Jefferson County
+Arvada city (pt.)
+Bow Mar town (pt.)
+Edgewater city
+Golden city
+Lakeside town
+Lakewood city
+Littleton city (pt.)
+Morrison town
+Mountain View town
+Superior town (pt.)
+Westminster city (pt.)
+Wheat Ridge city
+Balance of Jefferson County
+Kiowa County
+Eads town
+Haswell town
+Sheridan Lake town
+Balance of Kiowa County
+Kit Carson County
+Bethune town
+Burlington city
+Flagler town
+Seibert town
+Stratton town
+Vona town
+Balance of Kit Carson County
+Lake County
+Leadville city
+Balance of Lake County
+La Plata County
+Bayfield town
+Durango city
+Ignacio town
+Balance of La Plata County
+Larimer County
+Berthoud town (pt.)
+Estes Park town
+Fort Collins city
+Johnstown town (pt.)
+Loveland city
+Timnath town
+Wellington town
+Windsor town (pt.)
+Balance of Larimer County
+Las Animas County
+Aguilar town
+Branson town
+Cokedale town
+Kim town
+Starkville town
+Trinidad city
+Balance of Las Animas County
+Lincoln County
+Arriba town
+Genoa town
+Hugo town
+Limon town
+Balance of Lincoln County
+Logan County
+Crook town
+Fleming town
+Iliff town
+Merino town
+Peetz town
+Sterling city
+Balance of Logan County
+Mesa County
+Collbran town
+De Beque town
+Fruita city
+Grand Junction city
+Palisade town
+Balance of Mesa County
+Mineral County
+City of Creede town
+Balance of Mineral County
+Moffat County
+Craig city
+Dinosaur town
+Balance of Moffat County
+Montezuma County
+Cortez city
+Dolores town
+Mancos town
+Balance of Montezuma County
+Montrose County
+Montrose city
+Naturita town
+Nucla town
+Olathe town
+Balance of Montrose County
+Morgan County
+Brush city
+Fort Morgan city
+Hillrose town
+Log Lane Village town
+Wiggins town
+Balance of Morgan County
+Otero County
+Cheraw town
+Fowler town
+La Junta city
+Manzanola town
+Rocky Ford city
+Swink town
+Balance of Otero County
+Ouray County
+Ouray city
+Ridgway town
+Balance of Ouray County
+Park County
+Alma town
+Fairplay town
+Balance of Park County
+Phillips County
+Haxtun town
+Holyoke city
+Paoli town
+Balance of Phillips County
+Pitkin County
+Aspen city
+Basalt town (pt.)
+Snowmass Village town
+Balance of Pitkin County
+Prowers County
+Granada town
+Hartman town
+Holly town
+Lamar city
+Wiley town
+Balance of Prowers County
+Pueblo County
+Boone town
+Pueblo city
+Rye town
+Balance of Pueblo County
+Rio Blanco County
+Meeker town
+Rangely town
+Balance of Rio Blanco County
+Rio Grande County
+Center town (pt.)
+Del Norte town
+Monte Vista city
+South Fork town
+Balance of Rio Grande County
+Routt County
+Hayden town
+Oak Creek town
+Steamboat Springs city
+Yampa town
+Balance of Routt County
+Saguache County
+Bonanza town
+Center town (pt.)
+Crestone town
+Moffat town
+Saguache town
+Balance of Saguache County
+San Juan County
+Silverton town
+Balance of San Juan County
+San Miguel County
+Mountain Village town
+Norwood town
+Ophir town
+Sawpit town
+Telluride town
+Balance of San Miguel County
+Sedgwick County
+Julesburg town
+Ovid town
+Sedgwick town
+Balance of Sedgwick County
+Summit County
+Blue River town
+Breckenridge town
+Dillon town
+Frisco town
+Montezuma town
+Silverthorne town
+Balance of Summit County
+Teller County
+Cripple Creek city
+Green Mountain Falls town (pt.)
+Victor city
+Woodland Park city
+Balance of Teller County
+Washington County
+Akron town
+Otis town
+Balance of Washington County
+Weld County
+Ault town
+Berthoud town (pt.)
+Brighton city (pt.)
+Dacono city
+Eaton town
+Erie town (pt.)
+Evans city
+Firestone town
+Fort Lupton city
+Frederick town
+Garden City town
+Gilcrest town
+Greeley city
+Grover town
+Hudson town
+Johnstown town (pt.)
+Keenesburg town
+Kersey town
+La Salle town
+Lochbuie town (pt.)
+Longmont city (pt.)
+Mead town
+Milliken town
+Northglenn city (pt.)
+Nunn town
+Pierce town
+Platteville town
+Raymer (New Raymer) town
+Severance town
+Thornton city (pt.)
+Windsor town (pt.)
+Balance of Weld County
+Yuma County
+Eckley town
+Wray city
+Yuma city
+Balance of Yuma County

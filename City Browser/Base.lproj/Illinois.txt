@@ -1,0 +1,493 @@
+Aberdeen city
+Acequia city
+Albion city
+American Falls city
+Ammon city
+Arco city
+Arimo city
+Ashton city
+Athol city
+Atomic City city
+Bancroft city
+Basalt city
+Bellevue city
+Blackfoot city
+Bliss city
+Bloomington city
+Boise City city
+Bonners Ferry city
+Bovill city
+Buhl city
+Burley city
+Butte City city
+Caldwell city
+Cambridge city
+Carey city
+Cascade city
+Castleford city
+Challis city
+Chubbuck city
+Clark Fork city
+Clayton city
+Clifton city
+Coeur d'Alene city
+Cottonwood city
+Council city
+Craigmont city
+Crouch city
+Culdesac city
+Dalton Gardens city
+Dayton city
+Deary city
+Declo city
+Dietrich city
+Donnelly city
+Dover city
+Downey city
+Driggs city
+Drummond city
+Dubois city
+Eagle city
+East Hope city
+Eden city
+Elk River city
+Emmett city
+Fairfield city
+Ferdinand city
+Fernan Lake Village city
+Filer city
+Firth city
+Franklin city
+Fruitland city
+Garden City city
+Genesee city
+Georgetown city
+Glenns Ferry city
+Gooding city
+Grace city
+Grand View city
+Grangeville city
+Greenleaf city
+Hagerman city
+Hailey city
+Hamer city
+Hansen city
+Harrison city
+Hauser city
+Hayden city
+Hayden Lake city
+Hazelton city
+Heyburn city
+Hollister city
+Homedale city
+Hope city
+Horseshoe Bend city
+Huetter city
+Idaho City city
+Idaho Falls city
+Inkom city
+Iona city
+Irwin city
+Island Park city
+Jerome city
+Juliaetta city
+Kamiah city
+Kellogg city
+Kendrick city
+Ketchum city
+Kimberly city
+Kooskia city
+Kootenai city
+Kuna city
+Lapwai city
+Lava Hot Springs city
+Leadore city
+Lewiston city
+Lewisville city
+McCall city
+McCammon city
+Mackay city
+Malad City city
+Malta city
+Marsing city
+Melba city
+Menan city
+Meridian city
+Middleton city
+Midvale city
+Minidoka city
+Montpelier city
+Moore city
+Moscow city
+Mountain Home city
+Moyie Springs city
+Mud Lake city
+Mullan city
+Murtaugh city
+Nampa city
+Newdale city
+New Meadows city
+New Plymouth city
+Nezperce city
+Notus city
+Oakley city
+Oldtown city
+Onaway city
+Orofino city
+Osburn city
+Oxford city
+Paris city
+Parker city
+Parma city
+Paul city
+Payette city
+Peck city
+Pierce city
+Pinehurst city
+Placerville city
+Plummer city
+Pocatello city
+Ponderay city
+Post Falls city
+Potlatch city
+Preston city
+Priest River city
+Rathdrum city
+Reubens city
+Rexburg city
+Richfield city
+Rigby city
+Riggins city
+Ririe city
+Roberts city
+Rockland city
+Rupert city
+St. Anthony city
+St. Charles city
+St. Maries city
+Salmon city
+Sandpoint city
+Shelley city
+Shoshone city
+Smelterville city
+Soda Springs city
+Spencer city
+Spirit Lake city
+Stanley city
+Star city
+State Line city
+Stites city
+Sugar City city
+Sun Valley city
+Swan Valley city
+Tensed city
+Teton city
+Tetonia city
+Troy city
+Twin Falls city
+Ucon city
+Victor city
+Wallace city
+Wardner city
+Warm River city
+Weippe city
+Weiser city
+Wendell city
+Weston city
+White Bird city
+Wilder city
+Winchester city
+Worley city
+Ada County
+Boise City city
+Eagle city
+Garden City city
+Kuna city
+Meridian city
+Star city (pt.)
+Balance of Ada County
+Adams County
+Council city
+New Meadows city
+Balance of Adams County
+Bannock County
+Arimo city
+Chubbuck city
+Downey city
+Inkom city
+Lava Hot Springs city
+McCammon city
+Pocatello city (pt.)
+Balance of Bannock County
+Bear Lake County
+Bloomington city
+Georgetown city
+Montpelier city
+Paris city
+St. Charles city
+Balance of Bear Lake County
+Benewah County
+Plummer city
+St. Maries city
+Tensed city
+Balance of Benewah County
+Bingham County
+Aberdeen city
+Atomic City city
+Basalt city
+Blackfoot city
+Firth city
+Shelley city
+Balance of Bingham County
+Blaine County
+Bellevue city
+Carey city
+Hailey city
+Ketchum city
+Sun Valley city
+Balance of Blaine County
+Boise County
+Crouch city
+Horseshoe Bend city
+Idaho City city
+Placerville city
+Balance of Boise County
+Bonner County
+Clark Fork city
+Dover city
+East Hope city
+Hope city
+Kootenai city
+Oldtown city
+Ponderay city
+Priest River city
+Sandpoint city
+Balance of Bonner County
+Bonneville County
+Ammon city
+Idaho Falls city
+Iona city
+Irwin city
+Ririe city (pt.)
+Swan Valley city
+Ucon city
+Balance of Bonneville County
+Boundary County
+Bonners Ferry city
+Moyie Springs city
+Balance of Boundary County
+Butte County
+Arco city
+Butte City city
+Moore city
+Balance of Butte County
+Camas County
+Fairfield city
+Balance of Camas County
+Canyon County
+Caldwell city
+Greenleaf city
+Melba city
+Middleton city
+Nampa city
+Notus city
+Parma city
+Star city (pt.)
+Wilder city
+Balance of Canyon County
+Caribou County
+Bancroft city
+Grace city
+Soda Springs city
+Balance of Caribou County
+Cassia County
+Albion city
+Burley city (pt.)
+Declo city
+Malta city
+Oakley city
+Balance of Cassia County
+Clark County
+Dubois city
+Spencer city
+Balance of Clark County
+Clearwater County
+Elk River city
+Orofino city
+Pierce city
+Weippe city
+Balance of Clearwater County
+Custer County
+Challis city
+Clayton city
+Mackay city
+Stanley city
+Balance of Custer County
+Elmore County
+Glenns Ferry city
+Mountain Home city
+Balance of Elmore County
+Franklin County
+Clifton city
+Dayton city
+Franklin city
+Oxford city
+Preston city
+Weston city
+Balance of Franklin County
+Fremont County
+Ashton city
+Drummond city
+Island Park city
+Newdale city
+Parker city
+St. Anthony city
+Teton city
+Warm River city
+Balance of Fremont County
+Gem County
+Emmett city
+Balance of Gem County
+Gooding County
+Bliss city
+Gooding city
+Hagerman city
+Wendell city
+Balance of Gooding County
+Idaho County
+Cottonwood city
+Ferdinand city
+Grangeville city
+Kamiah city (pt.)
+Kooskia city
+Riggins city
+Stites city
+White Bird city
+Balance of Idaho County
+Jefferson County
+Hamer city
+Lewisville city
+Menan city
+Mud Lake city
+Rigby city
+Ririe city (pt.)
+Roberts city
+Balance of Jefferson County
+Jerome County
+Eden city
+Hazelton city
+Jerome city
+Balance of Jerome County
+Kootenai County
+Athol city
+Coeur d'Alene city
+Dalton Gardens city
+Fernan Lake Village city
+Harrison city
+Hauser city
+Hayden city
+Hayden Lake city
+Huetter city
+Post Falls city
+Rathdrum city
+Spirit Lake city
+State Line city
+Worley city
+Balance of Kootenai County
+Latah County
+Bovill city
+Deary city
+Genesee city
+Juliaetta city
+Kendrick city
+Moscow city
+Onaway city
+Potlatch city
+Troy city
+Balance of Latah County
+Lemhi County
+Leadore city
+Salmon city
+Balance of Lemhi County
+Lewis County
+Craigmont city
+Kamiah city (pt.)
+Nezperce city
+Reubens city
+Winchester city
+Balance of Lewis County
+Lincoln County
+Dietrich city
+Richfield city
+Shoshone city
+Balance of Lincoln County
+Madison County
+Rexburg city
+Sugar City city
+Balance of Madison County
+Minidoka County
+Acequia city
+Burley city (pt.)
+Heyburn city
+Minidoka city
+Paul city
+Rupert city
+Balance of Minidoka County
+Nez Perce County
+Culdesac city
+Lapwai city
+Lewiston city
+Peck city
+Balance of Nez Perce County
+Oneida County
+Malad City city
+Balance of Oneida County
+Owyhee County
+Grand View city
+Homedale city
+Marsing city
+Balance of Owyhee County
+Payette County
+Fruitland city
+New Plymouth city
+Payette city
+Balance of Payette County
+Power County
+American Falls city
+Pocatello city (pt.)
+Rockland city
+Balance of Power County
+Shoshone County
+Kellogg city
+Mullan city
+Osburn city
+Pinehurst city
+Smelterville city
+Wallace city
+Wardner city
+Balance of Shoshone County
+Teton County
+Driggs city
+Tetonia city
+Victor city
+Balance of Teton County
+Twin Falls County
+Buhl city
+Castleford city
+Filer city
+Hansen city
+Hollister city
+Kimberly city
+Murtaugh city
+Twin Falls city
+Balance of Twin Falls County
+Valley County
+Cascade city
+Donnelly city
+McCall city
+Balance of Valley County
+Washington County
+Cambridge city
+Midvale city
+Weiser city
+Balance of Washington County

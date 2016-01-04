@@ -1,0 +1,503 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1A559ADE1C33513A00A9DA11 /* States.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A559AD91C33513A00A9DA11 /* States.txt */; };
+		1A559ADF1C33513A00A9DA11 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A559ADA1C33513A00A9DA11 /* AppDelegate.swift */; };
+		1A559AE01C33513A00A9DA11 /* CityTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A559ADB1C33513A00A9DA11 /* CityTableViewController.swift */; };
+		1A559AE11C33513A00A9DA11 /* StateTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A559ADC1C33513A00A9DA11 /* StateTableViewController.swift */; };
+		1A755DE21C3B235C00BE7F26 /* Alabama.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DB11C3B235C00BE7F26 /* Alabama.txt */; };
+		1A755DE31C3B235C00BE7F26 /* Alaska.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DB21C3B235C00BE7F26 /* Alaska.txt */; };
+		1A755DE41C3B235C00BE7F26 /* Arizona.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DB31C3B235C00BE7F26 /* Arizona.txt */; };
+		1A755DE51C3B235C00BE7F26 /* Arkansas.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DB41C3B235C00BE7F26 /* Arkansas.txt */; };
+		1A755DE61C3B235C00BE7F26 /* California.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DB51C3B235C00BE7F26 /* California.txt */; };
+		1A755DE71C3B235C00BE7F26 /* Colorado.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DB61C3B235C00BE7F26 /* Colorado.txt */; };
+		1A755DE81C3B235C00BE7F26 /* Connecticut.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DB71C3B235C00BE7F26 /* Connecticut.txt */; };
+		1A755DE91C3B235C00BE7F26 /* Delaware.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DB81C3B235C00BE7F26 /* Delaware.txt */; };
+		1A755DEA1C3B235C00BE7F26 /* Florida.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DB91C3B235C00BE7F26 /* Florida.txt */; };
+		1A755DEB1C3B235C00BE7F26 /* Georgia.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DBA1C3B235C00BE7F26 /* Georgia.txt */; };
+		1A755DEC1C3B235C00BE7F26 /* Hawaii.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DBB1C3B235C00BE7F26 /* Hawaii.txt */; };
+		1A755DED1C3B235C00BE7F26 /* Idaho.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DBC1C3B235C00BE7F26 /* Idaho.txt */; };
+		1A755DEE1C3B235C00BE7F26 /* Illinois.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DBD1C3B235C00BE7F26 /* Illinois.txt */; };
+		1A755DEF1C3B235C00BE7F26 /* Indiana.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DBE1C3B235C00BE7F26 /* Indiana.txt */; };
+		1A755DF01C3B235C00BE7F26 /* Iowa.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DBF1C3B235C00BE7F26 /* Iowa.txt */; };
+		1A755DF11C3B235C00BE7F26 /* Kansas.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DC01C3B235C00BE7F26 /* Kansas.txt */; };
+		1A755DF21C3B235C00BE7F26 /* Kentucky.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DC11C3B235C00BE7F26 /* Kentucky.txt */; };
+		1A755DF31C3B235C00BE7F26 /* Louisiana.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DC21C3B235C00BE7F26 /* Louisiana.txt */; };
+		1A755DF41C3B235C00BE7F26 /* Maine.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DC31C3B235C00BE7F26 /* Maine.txt */; };
+		1A755DF51C3B235C00BE7F26 /* Maryland.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DC41C3B235C00BE7F26 /* Maryland.txt */; };
+		1A755DF61C3B235C00BE7F26 /* Massachusetts.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DC51C3B235C00BE7F26 /* Massachusetts.txt */; };
+		1A755DF71C3B235C00BE7F26 /* Michigan.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DC61C3B235C00BE7F26 /* Michigan.txt */; };
+		1A755DF81C3B235C00BE7F26 /* Minnesota.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DC71C3B235C00BE7F26 /* Minnesota.txt */; };
+		1A755DF91C3B235C00BE7F26 /* Mississippi.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DC81C3B235C00BE7F26 /* Mississippi.txt */; };
+		1A755DFA1C3B235C00BE7F26 /* Missouri.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DC91C3B235C00BE7F26 /* Missouri.txt */; };
+		1A755DFB1C3B235C00BE7F26 /* Montana.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DCA1C3B235C00BE7F26 /* Montana.txt */; };
+		1A755DFC1C3B235C00BE7F26 /* Nebraska.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DCB1C3B235C00BE7F26 /* Nebraska.txt */; };
+		1A755DFD1C3B235C00BE7F26 /* Nevada.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DCC1C3B235C00BE7F26 /* Nevada.txt */; };
+		1A755DFE1C3B235C00BE7F26 /* New Hampshire.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DCD1C3B235C00BE7F26 /* New Hampshire.txt */; };
+		1A755DFF1C3B235C00BE7F26 /* New Jersey.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DCE1C3B235C00BE7F26 /* New Jersey.txt */; };
+		1A755E001C3B235C00BE7F26 /* New York.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DCF1C3B235C00BE7F26 /* New York.txt */; };
+		1A755E011C3B235C00BE7F26 /* North Carolina.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DD01C3B235C00BE7F26 /* North Carolina.txt */; };
+		1A755E021C3B235C00BE7F26 /* North Dakota.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DD11C3B235C00BE7F26 /* North Dakota.txt */; };
+		1A755E031C3B235C00BE7F26 /* Ohio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DD21C3B235C00BE7F26 /* Ohio.txt */; };
+		1A755E041C3B235C00BE7F26 /* Oklahoma.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DD31C3B235C00BE7F26 /* Oklahoma.txt */; };
+		1A755E051C3B235C00BE7F26 /* Oregon.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DD41C3B235C00BE7F26 /* Oregon.txt */; };
+		1A755E061C3B235C00BE7F26 /* Pennsylvania.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DD51C3B235C00BE7F26 /* Pennsylvania.txt */; };
+		1A755E071C3B235C00BE7F26 /* Rhode Island.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DD61C3B235C00BE7F26 /* Rhode Island.txt */; };
+		1A755E081C3B235C00BE7F26 /* South Carolina.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DD71C3B235C00BE7F26 /* South Carolina.txt */; };
+		1A755E091C3B235C00BE7F26 /* South Dakota.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DD81C3B235C00BE7F26 /* South Dakota.txt */; };
+		1A755E0A1C3B235C00BE7F26 /* Tennessee.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DD91C3B235C00BE7F26 /* Tennessee.txt */; };
+		1A755E0B1C3B235C00BE7F26 /* Texas.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DDA1C3B235C00BE7F26 /* Texas.txt */; };
+		1A755E0C1C3B235C00BE7F26 /* Utah.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DDB1C3B235C00BE7F26 /* Utah.txt */; };
+		1A755E0D1C3B235C00BE7F26 /* Vermont.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DDC1C3B235C00BE7F26 /* Vermont.txt */; };
+		1A755E0E1C3B235C00BE7F26 /* Virginia.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DDD1C3B235C00BE7F26 /* Virginia.txt */; };
+		1A755E0F1C3B235C00BE7F26 /* Washington.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DDE1C3B235C00BE7F26 /* Washington.txt */; };
+		1A755E101C3B235C00BE7F26 /* West Virginia.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DDF1C3B235C00BE7F26 /* West Virginia.txt */; };
+		1A755E111C3B235C00BE7F26 /* Wisconsin.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DE01C3B235C00BE7F26 /* Wisconsin.txt */; };
+		1A755E121C3B235C00BE7F26 /* Wyoming.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1A755DE11C3B235C00BE7F26 /* Wyoming.txt */; };
+		1AD38F161C3355E80041174B /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1AD38F151C3355E80041174B /* Info.plist */; };
+		1AD38F181C3355F00041174B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AD38F171C3355F00041174B /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1A559AD91C33513A00A9DA11 /* States.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = States.txt; path = "City Browser/States.txt"; sourceTree = SOURCE_ROOT; };
+		1A559ADA1C33513A00A9DA11 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "City Browser/AppDelegate.swift"; sourceTree = SOURCE_ROOT; };
+		1A559ADB1C33513A00A9DA11 /* CityTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CityTableViewController.swift; path = "City Browser/CityTableViewController.swift"; sourceTree = SOURCE_ROOT; };
+		1A559ADC1C33513A00A9DA11 /* StateTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StateTableViewController.swift; path = "City Browser/StateTableViewController.swift"; sourceTree = SOURCE_ROOT; };
+		1A755DB11C3B235C00BE7F26 /* Alabama.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Alabama.txt; sourceTree = "<group>"; };
+		1A755DB21C3B235C00BE7F26 /* Alaska.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Alaska.txt; sourceTree = "<group>"; };
+		1A755DB31C3B235C00BE7F26 /* Arizona.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Arizona.txt; sourceTree = "<group>"; };
+		1A755DB41C3B235C00BE7F26 /* Arkansas.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Arkansas.txt; sourceTree = "<group>"; };
+		1A755DB51C3B235C00BE7F26 /* California.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = California.txt; sourceTree = "<group>"; };
+		1A755DB61C3B235C00BE7F26 /* Colorado.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Colorado.txt; sourceTree = "<group>"; };
+		1A755DB71C3B235C00BE7F26 /* Connecticut.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Connecticut.txt; sourceTree = "<group>"; };
+		1A755DB81C3B235C00BE7F26 /* Delaware.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Delaware.txt; sourceTree = "<group>"; };
+		1A755DB91C3B235C00BE7F26 /* Florida.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Florida.txt; sourceTree = "<group>"; };
+		1A755DBA1C3B235C00BE7F26 /* Georgia.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Georgia.txt; sourceTree = "<group>"; };
+		1A755DBB1C3B235C00BE7F26 /* Hawaii.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Hawaii.txt; sourceTree = "<group>"; };
+		1A755DBC1C3B235C00BE7F26 /* Idaho.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Idaho.txt; sourceTree = "<group>"; };
+		1A755DBD1C3B235C00BE7F26 /* Illinois.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Illinois.txt; sourceTree = "<group>"; };
+		1A755DBE1C3B235C00BE7F26 /* Indiana.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Indiana.txt; sourceTree = "<group>"; };
+		1A755DBF1C3B235C00BE7F26 /* Iowa.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Iowa.txt; sourceTree = "<group>"; };
+		1A755DC01C3B235C00BE7F26 /* Kansas.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Kansas.txt; sourceTree = "<group>"; };
+		1A755DC11C3B235C00BE7F26 /* Kentucky.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Kentucky.txt; sourceTree = "<group>"; };
+		1A755DC21C3B235C00BE7F26 /* Louisiana.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Louisiana.txt; sourceTree = "<group>"; };
+		1A755DC31C3B235C00BE7F26 /* Maine.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Maine.txt; sourceTree = "<group>"; };
+		1A755DC41C3B235C00BE7F26 /* Maryland.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Maryland.txt; sourceTree = "<group>"; };
+		1A755DC51C3B235C00BE7F26 /* Massachusetts.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Massachusetts.txt; sourceTree = "<group>"; };
+		1A755DC61C3B235C00BE7F26 /* Michigan.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Michigan.txt; sourceTree = "<group>"; };
+		1A755DC71C3B235C00BE7F26 /* Minnesota.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Minnesota.txt; sourceTree = "<group>"; };
+		1A755DC81C3B235C00BE7F26 /* Mississippi.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Mississippi.txt; sourceTree = "<group>"; };
+		1A755DC91C3B235C00BE7F26 /* Missouri.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Missouri.txt; sourceTree = "<group>"; };
+		1A755DCA1C3B235C00BE7F26 /* Montana.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Montana.txt; sourceTree = "<group>"; };
+		1A755DCB1C3B235C00BE7F26 /* Nebraska.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nebraska.txt; sourceTree = "<group>"; };
+		1A755DCC1C3B235C00BE7F26 /* Nevada.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nevada.txt; sourceTree = "<group>"; };
+		1A755DCD1C3B235C00BE7F26 /* New Hampshire.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "New Hampshire.txt"; sourceTree = "<group>"; };
+		1A755DCE1C3B235C00BE7F26 /* New Jersey.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "New Jersey.txt"; sourceTree = "<group>"; };
+		1A755DCF1C3B235C00BE7F26 /* New York.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "New York.txt"; sourceTree = "<group>"; };
+		1A755DD01C3B235C00BE7F26 /* North Carolina.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "North Carolina.txt"; sourceTree = "<group>"; };
+		1A755DD11C3B235C00BE7F26 /* North Dakota.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "North Dakota.txt"; sourceTree = "<group>"; };
+		1A755DD21C3B235C00BE7F26 /* Ohio.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Ohio.txt; sourceTree = "<group>"; };
+		1A755DD31C3B235C00BE7F26 /* Oklahoma.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Oklahoma.txt; sourceTree = "<group>"; };
+		1A755DD41C3B235C00BE7F26 /* Oregon.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Oregon.txt; sourceTree = "<group>"; };
+		1A755DD51C3B235C00BE7F26 /* Pennsylvania.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Pennsylvania.txt; sourceTree = "<group>"; };
+		1A755DD61C3B235C00BE7F26 /* Rhode Island.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Rhode Island.txt"; sourceTree = "<group>"; };
+		1A755DD71C3B235C00BE7F26 /* South Carolina.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "South Carolina.txt"; sourceTree = "<group>"; };
+		1A755DD81C3B235C00BE7F26 /* South Dakota.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "South Dakota.txt"; sourceTree = "<group>"; };
+		1A755DD91C3B235C00BE7F26 /* Tennessee.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Tennessee.txt; sourceTree = "<group>"; };
+		1A755DDA1C3B235C00BE7F26 /* Texas.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Texas.txt; sourceTree = "<group>"; };
+		1A755DDB1C3B235C00BE7F26 /* Utah.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Utah.txt; sourceTree = "<group>"; };
+		1A755DDC1C3B235C00BE7F26 /* Vermont.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Vermont.txt; sourceTree = "<group>"; };
+		1A755DDD1C3B235C00BE7F26 /* Virginia.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Virginia.txt; sourceTree = "<group>"; };
+		1A755DDE1C3B235C00BE7F26 /* Washington.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Washington.txt; sourceTree = "<group>"; };
+		1A755DDF1C3B235C00BE7F26 /* West Virginia.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "West Virginia.txt"; sourceTree = "<group>"; };
+		1A755DE01C3B235C00BE7F26 /* Wisconsin.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Wisconsin.txt; sourceTree = "<group>"; };
+		1A755DE11C3B235C00BE7F26 /* Wyoming.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Wyoming.txt; sourceTree = "<group>"; };
+		1AD38F151C3355E80041174B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "City Browser/Info.plist"; sourceTree = SOURCE_ROOT; };
+		1AD38F171C3355F00041174B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "City Browser/Assets.xcassets"; sourceTree = SOURCE_ROOT; };
+		1AFA4D4F1C150AE000586BBF /* City Browser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "City Browser.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1AFA4D4C1C150AE000586BBF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1A559AE31C33515600A9DA11 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1A559AD91C33513A00A9DA11 /* States.txt */,
+				1A755DB01C3B235C00BE7F26 /* Cities */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1A755DB01C3B235C00BE7F26 /* Cities */ = {
+			isa = PBXGroup;
+			children = (
+				1A755DB11C3B235C00BE7F26 /* Alabama.txt */,
+				1A755DB21C3B235C00BE7F26 /* Alaska.txt */,
+				1A755DB31C3B235C00BE7F26 /* Arizona.txt */,
+				1A755DB41C3B235C00BE7F26 /* Arkansas.txt */,
+				1A755DB51C3B235C00BE7F26 /* California.txt */,
+				1A755DB61C3B235C00BE7F26 /* Colorado.txt */,
+				1A755DB71C3B235C00BE7F26 /* Connecticut.txt */,
+				1A755DB81C3B235C00BE7F26 /* Delaware.txt */,
+				1A755DB91C3B235C00BE7F26 /* Florida.txt */,
+				1A755DBA1C3B235C00BE7F26 /* Georgia.txt */,
+				1A755DBB1C3B235C00BE7F26 /* Hawaii.txt */,
+				1A755DBC1C3B235C00BE7F26 /* Idaho.txt */,
+				1A755DBD1C3B235C00BE7F26 /* Illinois.txt */,
+				1A755DBE1C3B235C00BE7F26 /* Indiana.txt */,
+				1A755DBF1C3B235C00BE7F26 /* Iowa.txt */,
+				1A755DC01C3B235C00BE7F26 /* Kansas.txt */,
+				1A755DC11C3B235C00BE7F26 /* Kentucky.txt */,
+				1A755DC21C3B235C00BE7F26 /* Louisiana.txt */,
+				1A755DC31C3B235C00BE7F26 /* Maine.txt */,
+				1A755DC41C3B235C00BE7F26 /* Maryland.txt */,
+				1A755DC51C3B235C00BE7F26 /* Massachusetts.txt */,
+				1A755DC61C3B235C00BE7F26 /* Michigan.txt */,
+				1A755DC71C3B235C00BE7F26 /* Minnesota.txt */,
+				1A755DC81C3B235C00BE7F26 /* Mississippi.txt */,
+				1A755DC91C3B235C00BE7F26 /* Missouri.txt */,
+				1A755DCA1C3B235C00BE7F26 /* Montana.txt */,
+				1A755DCB1C3B235C00BE7F26 /* Nebraska.txt */,
+				1A755DCC1C3B235C00BE7F26 /* Nevada.txt */,
+				1A755DCD1C3B235C00BE7F26 /* New Hampshire.txt */,
+				1A755DCE1C3B235C00BE7F26 /* New Jersey.txt */,
+				1A755DCF1C3B235C00BE7F26 /* New York.txt */,
+				1A755DD01C3B235C00BE7F26 /* North Carolina.txt */,
+				1A755DD11C3B235C00BE7F26 /* North Dakota.txt */,
+				1A755DD21C3B235C00BE7F26 /* Ohio.txt */,
+				1A755DD31C3B235C00BE7F26 /* Oklahoma.txt */,
+				1A755DD41C3B235C00BE7F26 /* Oregon.txt */,
+				1A755DD51C3B235C00BE7F26 /* Pennsylvania.txt */,
+				1A755DD61C3B235C00BE7F26 /* Rhode Island.txt */,
+				1A755DD71C3B235C00BE7F26 /* South Carolina.txt */,
+				1A755DD81C3B235C00BE7F26 /* South Dakota.txt */,
+				1A755DD91C3B235C00BE7F26 /* Tennessee.txt */,
+				1A755DDA1C3B235C00BE7F26 /* Texas.txt */,
+				1A755DDB1C3B235C00BE7F26 /* Utah.txt */,
+				1A755DDC1C3B235C00BE7F26 /* Vermont.txt */,
+				1A755DDD1C3B235C00BE7F26 /* Virginia.txt */,
+				1A755DDE1C3B235C00BE7F26 /* Washington.txt */,
+				1A755DDF1C3B235C00BE7F26 /* West Virginia.txt */,
+				1A755DE01C3B235C00BE7F26 /* Wisconsin.txt */,
+				1A755DE11C3B235C00BE7F26 /* Wyoming.txt */,
+			);
+			name = Cities;
+			path = "City Browser/Cities";
+			sourceTree = SOURCE_ROOT;
+		};
+		1AFA4D461C150AE000586BBF = {
+			isa = PBXGroup;
+			children = (
+				1AFA4D511C150AE000586BBF /* City Browser */,
+				1AFA4D501C150AE000586BBF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1AFA4D501C150AE000586BBF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1AFA4D4F1C150AE000586BBF /* City Browser.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1AFA4D511C150AE000586BBF /* City Browser */ = {
+			isa = PBXGroup;
+			children = (
+				1A559ADA1C33513A00A9DA11 /* AppDelegate.swift */,
+				1A559ADB1C33513A00A9DA11 /* CityTableViewController.swift */,
+				1A559ADC1C33513A00A9DA11 /* StateTableViewController.swift */,
+				1AD38F151C3355E80041174B /* Info.plist */,
+				1AD38F171C3355F00041174B /* Assets.xcassets */,
+				1A559AE31C33515600A9DA11 /* Supporting Files */,
+			);
+			name = "City Browser";
+			path = sakldjgllkdafg;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1AFA4D4E1C150AE000586BBF /* City Browser */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1AFA4D611C150AE100586BBF /* Build configuration list for PBXNativeTarget "City Browser" */;
+			buildPhases = (
+				1AFA4D4B1C150AE000586BBF /* Sources */,
+				1AFA4D4C1C150AE000586BBF /* Frameworks */,
+				1AFA4D4D1C150AE000586BBF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "City Browser";
+			productName = sakldjgllkdafg;
+			productReference = 1AFA4D4F1C150AE000586BBF /* City Browser.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1AFA4D471C150AE000586BBF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = ConfuzedSkull;
+				TargetAttributes = {
+					1AFA4D4E1C150AE000586BBF = {
+						CreatedOnToolsVersion = 7.1.1;
+						DevelopmentTeam = DF9886R3E4;
+					};
+				};
+			};
+			buildConfigurationList = 1AFA4D4A1C150AE000586BBF /* Build configuration list for PBXProject "City Browser" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1AFA4D461C150AE000586BBF;
+			productRefGroup = 1AFA4D501C150AE000586BBF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1AFA4D4E1C150AE000586BBF /* City Browser */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1AFA4D4D1C150AE000586BBF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A755E071C3B235C00BE7F26 /* Rhode Island.txt in Resources */,
+				1A755E111C3B235C00BE7F26 /* Wisconsin.txt in Resources */,
+				1A755DE21C3B235C00BE7F26 /* Alabama.txt in Resources */,
+				1A755DFA1C3B235C00BE7F26 /* Missouri.txt in Resources */,
+				1A755E0E1C3B235C00BE7F26 /* Virginia.txt in Resources */,
+				1A755DF11C3B235C00BE7F26 /* Kansas.txt in Resources */,
+				1A755DE41C3B235C00BE7F26 /* Arizona.txt in Resources */,
+				1A755DFF1C3B235C00BE7F26 /* New Jersey.txt in Resources */,
+				1AD38F181C3355F00041174B /* Assets.xcassets in Resources */,
+				1A755DEF1C3B235C00BE7F26 /* Indiana.txt in Resources */,
+				1A755E081C3B235C00BE7F26 /* South Carolina.txt in Resources */,
+				1A755DF31C3B235C00BE7F26 /* Louisiana.txt in Resources */,
+				1A755DFD1C3B235C00BE7F26 /* Nevada.txt in Resources */,
+				1A755DF51C3B235C00BE7F26 /* Maryland.txt in Resources */,
+				1A755DED1C3B235C00BE7F26 /* Idaho.txt in Resources */,
+				1A755E0A1C3B235C00BE7F26 /* Tennessee.txt in Resources */,
+				1A755DFE1C3B235C00BE7F26 /* New Hampshire.txt in Resources */,
+				1A755E0B1C3B235C00BE7F26 /* Texas.txt in Resources */,
+				1A755E0F1C3B235C00BE7F26 /* Washington.txt in Resources */,
+				1A755E091C3B235C00BE7F26 /* South Dakota.txt in Resources */,
+				1A755E041C3B235C00BE7F26 /* Oklahoma.txt in Resources */,
+				1A559ADE1C33513A00A9DA11 /* States.txt in Resources */,
+				1A755E101C3B235C00BE7F26 /* West Virginia.txt in Resources */,
+				1A755DE81C3B235C00BE7F26 /* Connecticut.txt in Resources */,
+				1A755DFC1C3B235C00BE7F26 /* Nebraska.txt in Resources */,
+				1A755E031C3B235C00BE7F26 /* Ohio.txt in Resources */,
+				1A755E0C1C3B235C00BE7F26 /* Utah.txt in Resources */,
+				1A755DF91C3B235C00BE7F26 /* Mississippi.txt in Resources */,
+				1A755DE71C3B235C00BE7F26 /* Colorado.txt in Resources */,
+				1A755DEA1C3B235C00BE7F26 /* Florida.txt in Resources */,
+				1A755DF41C3B235C00BE7F26 /* Maine.txt in Resources */,
+				1A755E121C3B235C00BE7F26 /* Wyoming.txt in Resources */,
+				1A755DE61C3B235C00BE7F26 /* California.txt in Resources */,
+				1A755E011C3B235C00BE7F26 /* North Carolina.txt in Resources */,
+				1A755DE51C3B235C00BE7F26 /* Arkansas.txt in Resources */,
+				1A755E001C3B235C00BE7F26 /* New York.txt in Resources */,
+				1A755DF61C3B235C00BE7F26 /* Massachusetts.txt in Resources */,
+				1A755DF71C3B235C00BE7F26 /* Michigan.txt in Resources */,
+				1A755DF21C3B235C00BE7F26 /* Kentucky.txt in Resources */,
+				1A755DEC1C3B235C00BE7F26 /* Hawaii.txt in Resources */,
+				1A755DE31C3B235C00BE7F26 /* Alaska.txt in Resources */,
+				1A755E061C3B235C00BE7F26 /* Pennsylvania.txt in Resources */,
+				1A755E051C3B235C00BE7F26 /* Oregon.txt in Resources */,
+				1AD38F161C3355E80041174B /* Info.plist in Resources */,
+				1A755DF81C3B235C00BE7F26 /* Minnesota.txt in Resources */,
+				1A755DF01C3B235C00BE7F26 /* Iowa.txt in Resources */,
+				1A755DFB1C3B235C00BE7F26 /* Montana.txt in Resources */,
+				1A755DEE1C3B235C00BE7F26 /* Illinois.txt in Resources */,
+				1A755E021C3B235C00BE7F26 /* North Dakota.txt in Resources */,
+				1A755DEB1C3B235C00BE7F26 /* Georgia.txt in Resources */,
+				1A755E0D1C3B235C00BE7F26 /* Vermont.txt in Resources */,
+				1A755DE91C3B235C00BE7F26 /* Delaware.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1AFA4D4B1C150AE000586BBF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A559AE11C33513A00A9DA11 /* StateTableViewController.swift in Sources */,
+				1A559AE01C33513A00A9DA11 /* CityTableViewController.swift in Sources */,
+				1A559ADF1C33513A00A9DA11 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1AFA4D5F1C150AE100586BBF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1AFA4D601C150AE100586BBF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1AFA4D621C150AE100586BBF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "$(SRCROOT)/City Browser/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ConfuzedSkull.CityBrowser;
+				PRODUCT_NAME = "City Browser";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1AFA4D631C150AE100586BBF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "$(SRCROOT)/City Browser/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ConfuzedSkull.CityBrowser;
+				PRODUCT_NAME = "City Browser";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1AFA4D4A1C150AE000586BBF /* Build configuration list for PBXProject "City Browser" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1AFA4D5F1C150AE100586BBF /* Debug */,
+				1AFA4D601C150AE100586BBF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1AFA4D611C150AE100586BBF /* Build configuration list for PBXNativeTarget "City Browser" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1AFA4D621C150AE100586BBF /* Debug */,
+				1AFA4D631C150AE100586BBF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1AFA4D471C150AE000586BBF /* Project object */;
+}

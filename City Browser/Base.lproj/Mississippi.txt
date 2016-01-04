@@ -1,0 +1,780 @@
+Abbeville town
+Aberdeen city
+Ackerman town
+Algoma town
+Alligator town
+Amory city
+Anguilla town
+Arcola town
+Artesia town
+Ashland town
+Baldwyn city
+Bassfield town
+Batesville city
+Bay St. Louis city
+Bay Springs city
+Beaumont town
+Beauregard village
+Belmont town
+Belzoni city
+Benoit town
+Bentonia town
+Beulah town
+Big Creek village
+Biloxi city
+Blue Mountain town
+Blue Springs village
+Bolton town
+Booneville city
+Boyle town
+Brandon city
+Braxton village
+Brookhaven city
+Brooksville town
+Bruce town
+Bude town
+Burnsville town
+Byhalia town
+Byram city
+Caledonia town
+Calhoun City town
+Canton city
+Carrollton town
+Carthage city
+Cary town
+Centreville town
+Charleston city
+Chunky town
+Clarksdale city
+Cleveland city
+Clinton city
+Coahoma town
+Coffeeville town
+Coldwater town
+Collins city
+Columbia city
+Columbus city
+Como town
+Corinth city
+Courtland town
+Crawford town
+Crenshaw town
+Crosby town
+Crowder town
+Cruger town
+Crystal Springs city
+Decatur town
+De Kalb town
+Derma town
+Diamondhead city
+D'Iberville city
+D'Lo town
+Doddsville town
+Drew city
+Duck Hill town
+Dumas town
+Duncan town
+Durant city
+Ecru town
+Eden village
+Edwards town
+Ellisville city
+Enterprise town
+Ethel town
+Eupora city
+Falcon town
+Falkner town
+Farmington town
+Fayette city
+Flora town
+Florence city
+Flowood city
+Forest city
+French Camp town
+Friars Point town
+Fulton city
+Gattman village
+Gautier city
+Georgetown town
+Glen town
+Glendora village
+Gloster town
+Golden town
+Goodman town
+Greenville city
+Greenwood city
+Grenada city
+Gulfport city
+Gunnison town
+Guntown town
+Hatley town
+Hattiesburg city
+Hazlehurst city
+Heidelberg town
+Hernando city
+Hickory town
+Hickory Flat town
+Hollandale city
+Holly Springs city
+Horn Lake city
+Houston city
+Indianola city
+Inverness town
+Isola town
+Itta Bena city
+Iuka city
+Jackson city
+Jonestown town
+Jumpertown town
+Kilmichael town
+Kosciusko city
+Kossuth village
+Lake town
+Lambert town
+Laurel city
+Leakesville town
+Learned town
+Leland city
+Lena town
+Lexington city
+Liberty town
+Long Beach city
+Louin town
+Louise town
+Louisville city
+Lucedale city
+Lula town
+Lumberton city
+Lyon town
+Maben town
+McComb city
+McCool town
+McLain town
+Macon city
+Madison city
+Magee city
+Magnolia city
+Mantachie town
+Mantee village
+Marietta town
+Marion town
+Marks city
+Mathiston town
+Mayersville town
+Meadville town
+Mendenhall city
+Meridian city
+Merigold town
+Metcalfe town
+Mize town
+Monticello town
+Montrose town
+Moorhead city
+Morgan City town
+Morton city
+Moss Point city
+Mound Bayou city
+Mount Olive town
+Myrtle town
+Natchez city
+Nettleton city
+New Albany city
+New Augusta town
+New Hebron town
+New Houlka town
+Newton city
+North Carrollton town
+Noxapater town
+Oakland town
+Ocean Springs city
+Okolona city
+Olive Branch city
+Osyka town
+Oxford city
+Pace town
+Pachuta town
+Paden village
+Pascagoula city
+Pass Christian city
+Pearl city
+Pelahatchie town
+Petal city
+Philadelphia city
+Picayune city
+Pickens town
+Pittsboro village
+Plantersville town
+Polkville town
+Pontotoc city
+Pope village
+Poplarville city
+Port Gibson city
+Potts Camp town
+Prentiss town
+Puckett village
+Purvis city
+Quitman city
+Raleigh town
+Raymond city
+Renova town
+Richland city
+Richton town
+Ridgeland city
+Rienzi town
+Ripley city
+Rolling Fork city
+Rosedale city
+Roxie town
+Ruleville city
+Sallis town
+Saltillo city
+Sandersville town
+Sardis town
+Satartia village
+Schlater town
+Scooba town
+Sebastopol town
+Seminary town
+Senatobia city
+Shannon town
+Shaw city
+Shelby city
+Sherman town
+Shubuta town
+Shuqualak town
+Sidon town
+Silver City town
+Silver Creek town
+Slate Springs village
+Sledge town
+Smithville town
+Snow Lake Shores town
+Soso town
+Southaven city
+Starkville city
+State Line town
+Stonewall town
+Sturgis town
+Summit town
+Sumner town
+Sumrall town
+Sunflower town
+Sylvarena village
+Taylor village
+Taylorsville town
+Tchula town
+Terry town
+Thaxton town
+Tishomingo town
+Toccopola town
+Tremont town
+Tunica town
+Tupelo city
+Tutwiler town
+Tylertown town
+Union town
+Utica town
+Vaiden town
+Vardaman town
+Verona city
+Vicksburg city
+Walls town
+Walnut town
+Walnut Grove town
+Walthall village
+Water Valley city
+Waveland city
+Waynesboro city
+Webb town
+Weir town
+Wesson town
+West town
+West Point city
+Wiggins city
+Winona city
+Winstonville town
+Woodland village
+Woodville town
+Yazoo City city
+Adams County
+Natchez city
+Balance of Adams County
+Alcorn County
+Corinth city
+Farmington town
+Glen town
+Kossuth village
+Rienzi town
+Balance of Alcorn County
+Amite County
+Centreville town (pt.)
+Crosby town (pt.)
+Gloster town
+Liberty town
+Balance of Amite County
+Attala County
+Ethel town
+Kosciusko city
+McCool town
+Sallis town
+Balance of Attala County
+Benton County
+Ashland town
+Hickory Flat town
+Snow Lake Shores town
+Balance of Benton County
+Bolivar County
+Alligator town
+Benoit town
+Beulah town
+Boyle town
+Cleveland city
+Duncan town
+Gunnison town
+Merigold town
+Mound Bayou city
+Pace town
+Renova town
+Rosedale city
+Shaw city (pt.)
+Shelby city
+Winstonville town
+Balance of Bolivar County
+Calhoun County
+Big Creek village
+Bruce town
+Calhoun City town
+Derma town
+Pittsboro village
+Slate Springs village
+Vardaman town
+Balance of Calhoun County
+Carroll County
+Carrollton town
+North Carrollton town
+Vaiden town
+Balance of Carroll County
+Chickasaw County
+Houston city
+New Houlka town
+Okolona city
+Woodland village
+Balance of Chickasaw County
+Choctaw County
+Ackerman town
+French Camp town
+Mathiston town (pt.)
+Weir town
+Balance of Choctaw County
+Claiborne County
+Port Gibson city
+Balance of Claiborne County
+Clarke County
+Enterprise town
+Pachuta town
+Quitman city
+Shubuta town
+Stonewall town
+Balance of Clarke County
+Clay County
+West Point city
+Balance of Clay County
+Coahoma County
+Clarksdale city
+Coahoma town
+Friars Point town
+Jonestown town
+Lula town
+Lyon town
+Balance of Coahoma County
+Copiah County
+Beauregard village
+Crystal Springs city
+Georgetown town
+Hazlehurst city
+Wesson town (pt.)
+Balance of Copiah County
+Covington County
+Collins city
+Mount Olive town
+Seminary town
+Balance of Covington County
+DeSoto County
+Hernando city
+Horn Lake city
+Olive Branch city
+Southaven city
+Walls town
+Balance of DeSoto County
+Forrest County
+Hattiesburg city (pt.)
+Petal city
+Balance of Forrest County
+Franklin County
+Bude town
+Meadville town
+Roxie town
+Balance of Franklin County
+George County
+Lucedale city
+Balance of George County
+Greene County
+Leakesville town
+McLain town
+State Line town (pt.)
+Balance of Greene County
+Grenada County
+Grenada city
+Balance of Grenada County
+Hancock County
+Bay St. Louis city
+Diamondhead city
+Waveland city
+Balance of Hancock County
+Harrison County
+Biloxi city
+D'Iberville city
+Gulfport city
+Long Beach city
+Pass Christian city
+Balance of Harrison County
+Hinds County
+Bolton town
+Byram city
+Clinton city
+Edwards town
+Jackson city (pt.)
+Learned town
+Raymond city
+Terry town
+Utica town
+Balance of Hinds County
+Holmes County
+Cruger town
+Durant city
+Goodman town
+Lexington city
+Pickens town
+Tchula town
+West town
+Balance of Holmes County
+Humphreys County
+Belzoni city
+Isola town
+Louise town
+Silver City town
+Balance of Humphreys County
+Issaquena County
+Mayersville town
+Balance of Issaquena County
+Itawamba County
+Fulton city
+Mantachie town
+Tremont town
+Balance of Itawamba County
+Jackson County
+Gautier city
+Moss Point city
+Ocean Springs city
+Pascagoula city
+Balance of Jackson County
+Jasper County
+Bay Springs city
+Heidelberg town
+Louin town
+Montrose town
+Balance of Jasper County
+Jefferson County
+Fayette city
+Balance of Jefferson County
+Jefferson Davis County
+Bassfield town
+Prentiss town
+Balance of Jefferson Davis County
+Jones County
+Ellisville city
+Laurel city
+Sandersville town
+Soso town
+Balance of Jones County
+Kemper County
+De Kalb town
+Scooba town
+Balance of Kemper County
+Lafayette County
+Abbeville town
+Oxford city
+Taylor village
+Balance of Lafayette County
+Lamar County
+Hattiesburg city (pt.)
+Lumberton city (pt.)
+Purvis city
+Sumrall town
+Balance of Lamar County
+Lauderdale County
+Marion town
+Meridian city
+Balance of Lauderdale County
+Lawrence County
+Monticello town
+New Hebron town
+Silver Creek town
+Balance of Lawrence County
+Leake County
+Carthage city
+Lena town
+Sebastopol town (pt.)
+Walnut Grove town
+Balance of Leake County
+Lee County
+Baldwyn city (pt.)
+Guntown town
+Nettleton city (pt.)
+Plantersville town
+Saltillo city
+Shannon town
+Sherman town (pt.)
+Tupelo city
+Verona city
+Balance of Lee County
+Leflore County
+Greenwood city
+Itta Bena city
+Morgan City town
+Schlater town
+Sidon town
+Balance of Leflore County
+Lincoln County
+Brookhaven city
+Wesson town (pt.)
+Balance of Lincoln County
+Lowndes County
+Artesia town
+Caledonia town
+Columbus city
+Crawford town
+Balance of Lowndes County
+Madison County
+Canton city
+Flora town
+Jackson city (pt.)
+Madison city
+Ridgeland city
+Balance of Madison County
+Marion County
+Columbia city
+Balance of Marion County
+Marshall County
+Byhalia town
+Holly Springs city
+Potts Camp town
+Balance of Marshall County
+Monroe County
+Aberdeen city
+Amory city
+Gattman village
+Hatley town
+Nettleton city (pt.)
+Smithville town
+Balance of Monroe County
+Montgomery County
+Duck Hill town
+Kilmichael town
+Winona city
+Balance of Montgomery County
+Neshoba County
+Philadelphia city
+Union town (pt.)
+Balance of Neshoba County
+Newton County
+Chunky town
+Decatur town
+Hickory town
+Lake town (pt.)
+Newton city
+Union town (pt.)
+Balance of Newton County
+Noxubee County
+Brooksville town
+Macon city
+Shuqualak town
+Balance of Noxubee County
+Oktibbeha County
+Maben town (pt.)
+Starkville city
+Sturgis town
+Balance of Oktibbeha County
+Panola County
+Batesville city
+Como town
+Courtland town
+Crenshaw town (pt.)
+Crowder town (pt.)
+Pope village
+Sardis town
+Balance of Panola County
+Pearl River County
+Lumberton city (pt.)
+Picayune city
+Poplarville city
+Balance of Pearl River County
+Perry County
+Beaumont town
+New Augusta town
+Richton town
+Balance of Perry County
+Pike County
+McComb city
+Magnolia city
+Osyka town
+Summit town
+Balance of Pike County
+Pontotoc County
+Algoma town
+Ecru town
+Pontotoc city
+Sherman town (pt.)
+Thaxton town
+Toccopola town
+Balance of Pontotoc County
+Prentiss County
+Baldwyn city (pt.)
+Booneville city
+Jumpertown town
+Marietta town
+Balance of Prentiss County
+Quitman County
+Crenshaw town (pt.)
+Crowder town (pt.)
+Falcon town
+Lambert town
+Marks city
+Sledge town
+Balance of Quitman County
+Rankin County
+Brandon city
+Florence city
+Flowood city
+Jackson city (pt.)
+Pearl city
+Pelahatchie town
+Puckett village
+Richland city
+Balance of Rankin County
+Scott County
+Forest city
+Lake town (pt.)
+Morton city
+Sebastopol town (pt.)
+Balance of Scott County
+Sharkey County
+Anguilla town
+Cary town
+Rolling Fork city
+Balance of Sharkey County
+Simpson County
+Braxton village
+D'Lo town
+Magee city
+Mendenhall city
+Balance of Simpson County
+Smith County
+Mize town
+Polkville town
+Raleigh town
+Sylvarena village
+Taylorsville town
+Balance of Smith County
+Stone County
+Wiggins city
+Balance of Stone County
+Sunflower County
+Doddsville town
+Drew city
+Indianola city
+Inverness town
+Moorhead city
+Ruleville city
+Shaw city (pt.)
+Sunflower town
+Balance of Sunflower County
+Tallahatchie County
+Charleston city
+Glendora village
+Sumner town
+Tutwiler town
+Webb town
+Balance of Tallahatchie County
+Tate County
+Coldwater town
+Senatobia city
+Balance of Tate County
+Tippah County
+Blue Mountain town
+Dumas town
+Falkner town
+Ripley city
+Walnut town
+Balance of Tippah County
+Tishomingo County
+Belmont town
+Burnsville town
+Golden town
+Iuka city
+Paden village
+Tishomingo town
+Balance of Tishomingo County
+Tunica County
+Tunica town
+Balance of Tunica County
+Union County
+Blue Springs village
+Myrtle town
+New Albany city
+Sherman town (pt.)
+Balance of Union County
+Walthall County
+Tylertown town
+Balance of Walthall County
+Warren County
+Vicksburg city
+Balance of Warren County
+Washington County
+Arcola town
+Greenville city
+Hollandale city
+Leland city
+Metcalfe town
+Balance of Washington County
+Wayne County
+State Line town (pt.)
+Waynesboro city
+Balance of Wayne County
+Webster County
+Eupora city
+Maben town (pt.)
+Mantee village
+Mathiston town (pt.)
+Walthall village
+Balance of Webster County
+Wilkinson County
+Centreville town (pt.)
+Crosby town (pt.)
+Woodville town
+Balance of Wilkinson County
+Winston County
+Louisville city
+Noxapater town
+Balance of Winston County
+Yalobusha County
+Coffeeville town
+Oakland town
+Water Valley city
+Balance of Yalobusha County
+Yazoo County
+Bentonia town
+Eden village
+Satartia village
+Yazoo City city
+Balance of Yazoo County

@@ -1,0 +1,284 @@
+Ansonia city
+Bantam borough
+Bridgeport city
+Bristol city
+Danbury city
+Danielson borough
+Derby city
+Fenwick borough
+Groton city
+Groton Long Point borough
+Hartford city
+Jewett City borough
+Litchfield borough
+Meriden city
+Middletown city
+Milford city (balance)
+Naugatuck borough
+New Britain city
+New Haven city
+New London city
+Newtown borough
+Norwalk city
+Norwich city
+Shelton city
+Stamford city
+Stonington borough
+Torrington city
+Waterbury city
+West Haven city
+Woodmont borough
+Milford city
+Milford city (balance)
+Woodmont borough
+Fairfield County
+Bridgeport city
+Danbury city
+Newtown borough
+Norwalk city
+Shelton city
+Stamford city
+Balance of Fairfield County
+Bethel town
+Bridgeport town
+Bridgeport city
+Brookfield town
+Danbury town
+Danbury city
+Darien town
+Easton town
+Fairfield town
+Greenwich town
+Monroe town
+New Canaan town
+New Fairfield town
+Newtown town
+Newtown borough
+Balance of Newtown town
+Norwalk town
+Norwalk city
+Redding town
+Ridgefield town
+Shelton town
+Shelton city
+Sherman town
+Stamford town
+Stamford city
+Stratford town
+Trumbull town
+Weston town
+Westport town
+Wilton town
+Hartford County
+Bristol city
+Hartford city
+New Britain city
+Balance of Hartford County
+Avon town
+Berlin town
+Bloomfield town
+Bristol town
+Bristol city
+Burlington town
+Canton town
+East Granby town
+East Hartford town
+East Windsor town
+Enfield town
+Farmington town
+Glastonbury town
+Granby town
+Hartford town
+Hartford city
+Hartland town
+Manchester town
+Marlborough town
+New Britain town
+New Britain city
+Newington town
+Plainville town
+Rocky Hill town
+Simsbury town
+Southington town
+South Windsor town
+Suffield town
+West Hartford town
+Wethersfield town
+Windsor town
+Windsor Locks town
+Litchfield County
+Bantam borough
+Litchfield borough
+Torrington city
+Balance of Litchfield County
+Barkhamsted town
+Bethlehem town
+Bridgewater town
+Canaan town
+Colebrook town
+Cornwall town
+Goshen town
+Harwinton town
+Kent town
+Litchfield town
+Bantam borough
+Litchfield borough
+Balance of Litchfield town
+Morris town
+New Hartford town
+New Milford town
+Norfolk town
+North Canaan town
+Plymouth town
+Roxbury town
+Salisbury town
+Sharon town
+Thomaston town
+Torrington town
+Torrington city
+Warren town
+Washington town
+Watertown town
+Winchester town
+Woodbury town
+Middlesex County
+Fenwick borough
+Middletown city
+Balance of Middlesex County
+Chester town
+Clinton town
+Cromwell town
+Deep River town
+Durham town
+East Haddam town
+East Hampton town
+Essex town
+Haddam town
+Killingworth town
+Middlefield town
+Middletown town
+Middletown city
+Old Saybrook town
+Fenwick borough
+Balance of Old Saybrook town
+Portland town
+Westbrook town
+New Haven County
+Ansonia city
+Derby city
+Meriden city
+Milford city (balance)
+Naugatuck borough
+New Haven city
+Waterbury city
+West Haven city
+Woodmont borough
+Balance of New Haven County
+Ansonia town
+Ansonia city
+Beacon Falls town
+Bethany town
+Branford town
+Cheshire town
+Derby town
+Derby city
+East Haven town
+Guilford town
+Hamden town
+Madison town
+Meriden town
+Meriden city
+Middlebury town
+Milford town
+Milford city (balance)
+Woodmont borough
+Naugatuck town
+Naugatuck borough
+New Haven town
+New Haven city
+North Branford town
+North Haven town
+Orange town
+Oxford town
+Prospect town
+Seymour town
+Southbury town
+Wallingford town
+Waterbury town
+Waterbury city
+West Haven town
+West Haven city
+Wolcott town
+Woodbridge town
+New London County
+Groton city
+Groton Long Point borough
+Jewett City borough
+New London city
+Norwich city
+Stonington borough
+Balance of New London County
+Bozrah town
+Colchester town
+East Lyme town
+Franklin town
+Griswold town
+Jewett City borough
+Balance of Griswold town
+Groton town
+Groton city
+Groton Long Point borough
+Balance of Groton town
+Lebanon town
+Ledyard town
+Lisbon town
+Lyme town
+Montville town
+New London town
+New London city
+North Stonington town
+Norwich town
+Norwich city
+Old Lyme town
+Preston town
+Salem town
+Sprague town
+Stonington town
+Stonington borough
+Balance of Stonington town
+Voluntown town
+Waterford town
+Tolland County
+Andover town
+Bolton town
+Columbia town
+Coventry town
+Ellington town
+Hebron town
+Mansfield town
+Somers town
+Stafford town
+Tolland town
+Union town
+Vernon town
+Willington town
+Windham County
+Danielson borough
+Balance of Windham County
+Ashford town
+Brooklyn town
+Canterbury town
+Chaplin town
+Eastford town
+Hampton town
+Killingly town
+Danielson borough
+Balance of Killingly town
+Plainfield town
+Pomfret town
+Putnam town
+Scotland town
+Sterling town
+Thompson town
+Windham town
+Woodstock town

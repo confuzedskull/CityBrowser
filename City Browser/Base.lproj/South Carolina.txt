@@ -1,0 +1,660 @@
+Abbeville city
+Aiken city
+Allendale town
+Anderson city
+Andrews town
+Arcadia Lakes town
+Atlantic Beach town
+Awendaw town
+Aynor town
+Bamberg town
+Barnwell city
+Batesburg-Leesville town
+Beaufort city
+Belton city
+Bennettsville city
+Bethune town
+Bishopville city
+Blacksburg town
+Blackville town
+Blenheim town
+Bluffton town
+Blythewood town
+Bonneau town
+Bowman town
+Branchville town
+Briarcliffe Acres town
+Brunson town
+Burnettown town
+Calhoun Falls town
+Camden city
+Cameron town
+Campobello town
+Carlisle town
+Cayce city
+Central town
+Central Pacolet town
+Chapin town
+Charleston city
+Cheraw town
+Chesnee city
+Chester city
+Chesterfield town
+Clemson city
+Clinton city
+Clio town
+Clover town
+Columbia city
+Conway city
+Cope town
+Cordova town
+Cottageville town
+Coward town
+Cowpens town
+Cross Hill town
+Darlington city
+Denmark city
+Dillon city
+Donalds town
+Due West town
+Duncan town
+Easley city
+Eastover town
+Edgefield town
+Edisto Beach town
+Ehrhardt town
+Elgin town
+Elko town
+Elloree town
+Estill town
+Eutawville town
+Fairfax town
+Florence city
+Folly Beach city
+Forest Acres city
+Fort Lawn town
+Fort Mill town
+Fountain Inn city
+Furman town
+Gaffney city
+Gaston town
+Georgetown city
+Gifford town
+Gilbert town
+Goose Creek city
+Govan town
+Gray Court town
+Great Falls town
+Greeleyville town
+Greenville city
+Greenwood city
+Greer city
+Hampton town
+Hanahan city
+Hardeeville city
+Harleyville town
+Hartsville city
+Heath Springs town
+Hemingway town
+Hickory Grove town
+Hilda town
+Hilton Head Island town
+Hodges town
+Holly Hill town
+Hollywood town
+Honea Path town
+Inman city
+Irmo town
+Isle of Palms city
+Iva town
+Jackson town
+James Island town
+Jamestown town
+Jefferson town
+Jenkinsville town
+Johnsonville city
+Johnston town
+Jonesville town
+Kershaw town
+Kiawah Island town
+Kingstree town
+Kline town
+Lake City city
+Lake View town
+Lamar town
+Lancaster city
+Landrum city
+Lane town
+Latta town
+Laurens city
+Lexington town
+Liberty city
+Lincolnville town
+Little Mountain town
+Livingston town
+Lockhart town
+Lodge town
+Loris city
+Lowndesville town
+Lowrys town
+Luray town
+Lyman town
+Lynchburg town
+McBee town
+McClellanville town
+McColl town
+McConnells town
+McCormick town
+Manning city
+Marion city
+Mauldin city
+Mayesville town
+Meggett town
+Moncks Corner town
+Monetta town
+Mount Croghan town
+Mount Pleasant town
+Mullins city
+Myrtle Beach city
+Neeses town
+Newberry city
+New Ellenton town
+Nichols town
+Ninety Six town
+Norris town
+North town
+North Augusta city
+North Charleston city
+North Myrtle Beach city
+Norway town
+Olanta town
+Olar town
+Orangeburg city
+Pacolet town
+Pageland town
+Pamplico town
+Parksville town
+Patrick town
+Pawleys Island town
+Paxville town
+Peak town
+Pelion town
+Pelzer town
+Pendleton town
+Perry town
+Pickens city
+Pine Ridge town
+Pinewood town
+Plum Branch town
+Pomaria town
+Port Royal town
+Prosperity town
+Quinby town
+Ravenel town
+Reevesville town
+Reidville town
+Richburg town
+Ridgeland town
+Ridge Spring town
+Ridgeville town
+Ridgeway town
+Rock Hill city
+Rockville town
+Rowesville town
+Ruby town
+St. George town
+St. Matthews town
+St. Stephen town
+Salem town
+Salley town
+Saluda town
+Santee town
+Scotia town
+Scranton town
+Seabrook Island town
+Sellers town
+Seneca city
+Sharon town
+Silverstreet town
+Simpsonville city
+Six Mile town
+Smoaks town
+Smyrna town
+Snelling town
+Society Hill town
+South Congaree town
+Spartanburg city
+Springdale town
+Springfield town
+Starr town
+Stuckey town
+Sullivan's Island town
+Summerton town
+Summerville town
+Summit town
+Sumter city
+Surfside Beach town
+Swansea town
+Sycamore town
+Tatum town
+Tega Cay city
+Timmonsville town
+Travelers Rest city
+Trenton town
+Troy town
+Turbeville town
+Ulmer town
+Union city
+Vance town
+Varnville town
+Wagener town
+Walhalla city
+Walterboro city
+Ward town
+Ware Shoals town
+Waterloo town
+Wellford city
+West Columbia city
+Westminster city
+West Pelzer town
+West Union town
+Whitmire town
+Williams town
+Williamston town
+Williston town
+Windsor town
+Winnsboro town
+Woodford town
+Woodruff city
+Yemassee town
+York city
+Abbeville County
+Abbeville city
+Calhoun Falls town
+Donalds town
+Due West town
+Honea Path town (pt.)
+Lowndesville town
+Ware Shoals town (pt.)
+Balance of Abbeville County
+Aiken County
+Aiken city
+Burnettown town
+Jackson town
+Monetta town (pt.)
+New Ellenton town
+North Augusta city (pt.)
+Perry town
+Salley town
+Wagener town
+Windsor town
+Balance of Aiken County
+Allendale County
+Allendale town
+Fairfax town
+Sycamore town
+Ulmer town
+Balance of Allendale County
+Anderson County
+Anderson city
+Belton city
+Clemson city (pt.)
+Easley city (pt.)
+Honea Path town (pt.)
+Iva town
+Pelzer town
+Pendleton town
+Starr town
+West Pelzer town
+Williamston town
+Balance of Anderson County
+Bamberg County
+Bamberg town
+Denmark city
+Ehrhardt town
+Govan town
+Olar town
+Balance of Bamberg County
+Barnwell County
+Barnwell city
+Blackville town
+Elko town
+Hilda town
+Kline town
+Snelling town
+Williston town
+Balance of Barnwell County
+Beaufort County
+Beaufort city
+Bluffton town
+Hardeeville city (pt.)
+Hilton Head Island town
+Port Royal town
+Ridgeland town (pt.)
+Yemassee town (pt.)
+Balance of Beaufort County
+Berkeley County
+Bonneau town
+Charleston city (pt.)
+Goose Creek city (pt.)
+Hanahan city
+Jamestown town
+Moncks Corner town
+North Charleston city (pt.)
+St. Stephen town
+Summerville town (pt.)
+Balance of Berkeley County
+Calhoun County
+Cameron town
+St. Matthews town
+Balance of Calhoun County
+Charleston County
+Awendaw town
+Charleston city (pt.)
+Folly Beach city
+Goose Creek city (pt.)
+Hollywood town
+Isle of Palms city
+James Island town
+Kiawah Island town
+Lincolnville town (pt.)
+McClellanville town
+Meggett town
+Mount Pleasant town
+North Charleston city (pt.)
+Ravenel town
+Rockville town
+Seabrook Island town
+Sullivan's Island town
+Summerville town (pt.)
+Balance of Charleston County
+Cherokee County
+Blacksburg town
+Chesnee city (pt.)
+Gaffney city
+Smyrna town (pt.)
+Balance of Cherokee County
+Chester County
+Chester city
+Fort Lawn town
+Great Falls town
+Lowrys town
+Richburg town
+Balance of Chester County
+Chesterfield County
+Cheraw town (pt.)
+Chesterfield town
+Jefferson town
+McBee town
+Mount Croghan town
+Pageland town
+Patrick town
+Ruby town
+Balance of Chesterfield County
+Clarendon County
+Manning city
+Paxville town
+Summerton town
+Turbeville town
+Balance of Clarendon County
+Colleton County
+Cottageville town
+Edisto Beach town
+Lodge town
+Smoaks town
+Walterboro city
+Williams town
+Balance of Colleton County
+Darlington County
+Darlington city
+Hartsville city
+Lamar town
+Society Hill town
+Balance of Darlington County
+Dillon County
+Dillon city
+Lake View town
+Latta town
+Balance of Dillon County
+Dorchester County
+Harleyville town
+Lincolnville town (pt.)
+North Charleston city (pt.)
+Reevesville town
+Ridgeville town
+St. George town
+Summerville town (pt.)
+Balance of Dorchester County
+Edgefield County
+Edgefield town
+Johnston town
+North Augusta city (pt.)
+Trenton town
+Balance of Edgefield County
+Fairfield County
+Blythewood town (pt.)
+Jenkinsville town
+Ridgeway town
+Winnsboro town
+Balance of Fairfield County
+Florence County
+Coward town
+Florence city
+Johnsonville city
+Lake City city
+Olanta town
+Pamplico town
+Quinby town
+Scranton town
+Timmonsville town
+Balance of Florence County
+Georgetown County
+Andrews town (pt.)
+Georgetown city
+Pawleys Island town
+Balance of Georgetown County
+Greenville County
+Fountain Inn city (pt.)
+Greenville city
+Greer city (pt.)
+Mauldin city
+Simpsonville city
+Travelers Rest city
+Balance of Greenville County
+Greenwood County
+Greenwood city
+Hodges town
+Ninety Six town
+Troy town
+Ware Shoals town (pt.)
+Balance of Greenwood County
+Hampton County
+Brunson town
+Estill town
+Furman town
+Gifford town
+Hampton town
+Luray town
+Scotia town
+Varnville town
+Yemassee town (pt.)
+Balance of Hampton County
+Horry County
+Atlantic Beach town
+Aynor town
+Briarcliffe Acres town
+Conway city
+Loris city
+Myrtle Beach city
+North Myrtle Beach city
+Surfside Beach town
+Balance of Horry County
+Jasper County
+Hardeeville city (pt.)
+Ridgeland town (pt.)
+Balance of Jasper County
+Kershaw County
+Bethune town
+Camden city
+Elgin town
+Balance of Kershaw County
+Lancaster County
+Heath Springs town
+Kershaw town
+Lancaster city
+Balance of Lancaster County
+Laurens County
+Clinton city
+Cross Hill town
+Fountain Inn city (pt.)
+Gray Court town
+Laurens city
+Ware Shoals town (pt.)
+Waterloo town
+Balance of Laurens County
+Lee County
+Bishopville city
+Lynchburg town
+Balance of Lee County
+Lexington County
+Batesburg-Leesville town (pt.)
+Cayce city (pt.)
+Chapin town
+Columbia city (pt.)
+Gaston town
+Gilbert town
+Irmo town (pt.)
+Lexington town
+Pelion town
+Pine Ridge town
+South Congaree town
+Springdale town
+Summit town
+Swansea town
+West Columbia city
+Balance of Lexington County
+McCormick County
+McCormick town
+Parksville town
+Plum Branch town
+Balance of McCormick County
+Marion County
+Marion city
+Mullins city
+Nichols town
+Sellers town
+Balance of Marion County
+Marlboro County
+Bennettsville city
+Blenheim town
+Cheraw town (pt.)
+Clio town
+McColl town
+Tatum town
+Balance of Marlboro County
+Newberry County
+Little Mountain town
+Newberry city
+Peak town
+Pomaria town
+Prosperity town
+Silverstreet town
+Whitmire town
+Balance of Newberry County
+Oconee County
+Salem town
+Seneca city
+Walhalla city
+Westminster city
+West Union town
+Balance of Oconee County
+Orangeburg County
+Bowman town
+Branchville town
+Cope town
+Cordova town
+Elloree town
+Eutawville town
+Holly Hill town
+Livingston town
+Neeses town
+North town
+Norway town
+Orangeburg city
+Rowesville town
+Santee town
+Springfield town
+Vance town
+Woodford town
+Balance of Orangeburg County
+Pickens County
+Central town
+Clemson city (pt.)
+Easley city (pt.)
+Liberty city
+Norris town
+Pickens city
+Six Mile town
+Balance of Pickens County
+Richland County
+Arcadia Lakes town
+Blythewood town (pt.)
+Cayce city (pt.)
+Columbia city (pt.)
+Eastover town
+Forest Acres city
+Irmo town (pt.)
+Balance of Richland County
+Saluda County
+Batesburg-Leesville town (pt.)
+Monetta town (pt.)
+Ridge Spring town
+Saluda town
+Ward town
+Balance of Saluda County
+Spartanburg County
+Campobello town
+Central Pacolet town
+Chesnee city (pt.)
+Cowpens town
+Duncan town
+Greer city (pt.)
+Inman city
+Landrum city
+Lyman town
+Pacolet town
+Reidville town
+Spartanburg city
+Wellford city
+Woodruff city
+Balance of Spartanburg County
+Sumter County
+Mayesville town
+Pinewood town
+Sumter city
+Balance of Sumter County
+Union County
+Carlisle town
+Jonesville town
+Lockhart town
+Union city
+Balance of Union County
+Williamsburg County
+Andrews town (pt.)
+Greeleyville town
+Hemingway town
+Kingstree town
+Lane town
+Stuckey town
+Balance of Williamsburg County
+York County
+Clover town
+Fort Mill town
+Hickory Grove town
+McConnells town
+Rock Hill city
+Sharon town
+Smyrna town (pt.)
+Tega Cay city
+York city
+Balance of York County

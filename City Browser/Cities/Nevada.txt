@@ -1,0 +1,64 @@
+Boulder City city
+Caliente city
+Carlin city
+Carson City
+Elko city
+Ely city
+Fallon city
+Fernley city
+Henderson city
+Las Vegas city
+Lovelock city
+Mesquite city
+North Las Vegas city
+Reno city
+Sparks city
+Wells city
+West Wendover city
+Winnemucca city
+Yerington city
+Churchill County
+Fallon city
+Balance of Churchill County
+Clark County
+Boulder City city
+Henderson city
+Las Vegas city
+Mesquite city (pt.)
+North Las Vegas city
+Balance of Clark County
+Douglas County
+Elko County
+Carlin city
+Elko city
+Wells city
+West Wendover city
+Balance of Elko County
+Esmeralda County
+Eureka County
+Humboldt County
+Winnemucca city
+Balance of Humboldt County
+Lander County
+Lincoln County
+Caliente city
+Mesquite city (pt.)
+Balance of Lincoln County
+Lyon County
+Fernley city
+Yerington city
+Balance of Lyon County
+Mineral County
+Nye County
+Pershing County
+Lovelock city
+Balance of Pershing County
+Storey County
+Washoe County
+Reno city
+Sparks city
+Balance of Washoe County
+White Pine County
+Ely city
+Balance of White Pine County
+Carson City
